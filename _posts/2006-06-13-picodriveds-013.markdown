@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 27
+layout: post
+title: PicoDriveDS 0.1.3
+wordpress_url: http://www.cryptosystem.org/archives/2006/06/picodriveds-013/
+---
+PicoDriveDS 0.1.3 is up! Changes:
+
+*   Added long filename support
+*   Added support for going up a directory by pressing B
+*   Added support for skipping ahead/back 5 files at a time with R/L
+*   Added automatic save/load SRAM support
+
+Files are the same place as before or you can use [the handy new release directories to be sure](http://cryptosystem.org/projects/nds/picodriveds-0.1.3).
+
+The SRAM feature is not the same thing as savestates. Basically it emulates a Genesis cart's internal Save RAM, and whenever the SRAM is written to it writes out (romname).srm. When you load a game, it looks to see if that SRAM file is there and loads it if so.

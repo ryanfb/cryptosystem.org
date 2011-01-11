@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 28
+layout: post
+title: PicoDriveDS 0.1.4
+wordpress_url: http://www.cryptosystem.org/archives/2006/06/picodriveds-014/
+---
+PicoDriveDS 0.1.4 is up! This is mostly a minor bugfix/enhancement release while I continue work on the new renderer. Changes:
+
+   * Fixed bug where R could scroll past end of file list
+   * Switched to unified builds, now one build should work for all SD/CF carts (thanks WinterMute)
+   * Added NeoFlash MK2/MK3 support (thanks WinterMute)
+   * Changed it so that pressing Select again without choosing a file will resume emulation
+
+Get it [here](http://www.cryptosystem.org/projects/nds/picodriveds-0.1.4/).

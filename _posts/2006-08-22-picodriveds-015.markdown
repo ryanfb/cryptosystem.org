@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 29
+layout: post
+title: PicoDriveDS 0.1.5
+wordpress_url: http://www.cryptosystem.org/archives/2006/08/picodriveds-015/
+---
+PicoDriveDS 0.1.5 is up! Changes:
+
+   * Added support for appended ROMs. This should allow users with carts not supported by gba_nds_fat to use PicoDriveDS. Simply append a ROM to the PicoDriveDS binary, and it will run it (on *nix systems this can be done with "cat romname.ext >> picodriveds.ext", on Windows with "copy /b picodriveds.ext+romname.ext picodriveds-withrom.ext", substituting the appropriate filenames of course). You can only append one ROM at a time. In this mode, Genesis SRAM will be saved to GBA SRAM. Some patchers may work correctly with this and save the SRAM to your removable media, I have only been able to test with the EZ4 Lite software.
+   * Fixed M3 reset code, added M3SD Mini insertion detection code (untested, may not work)
+   * Massive code restructure and cleanup (though some cleanup is still in progress)
+   * Added save state support, accessed via the X button. Due to the current size of the save states, this is only supported for FAT devices and is disabled in appended ROM mode. Currently there is only one save state per ROM (saved to romname.pds). This is still a very experimental feature and save states may not be compatible with future versions of PicoDriveDS.
+
+Grab it [here](http://cryptosystem.org/projects/nds/picodriveds-0.1.5/) or in the usual location. The source code tarball is also in the release directory, and I will check in the code to [the PicoDriveDS Bounty Source project](https://picodriveds.bountysource.com/) repository soon and begin using that as my primary Subversion server.

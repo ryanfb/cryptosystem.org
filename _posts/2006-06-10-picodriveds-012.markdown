@@ -1,0 +1,27 @@
+--- 
+wordpress_id: 26
+layout: post
+title: PicoDriveDS 0.1.2
+wordpress_url: http://www.cryptosystem.org/archives/2006/06/picodriveds-012/
+---
+Since my last post about PicoDriveDS, 0.1.2 has been released. Changes:
+
+*   Switched from Cyclone 0.0080 to Reesy's Cyclone 0.0084
+*   Switched from software scaling to hardware scaling
+*   Added three scale modes: Stretch, Aspect, and 1:1
+*   Cycle through scale modes with L
+*   Position the window in 1:1 mode by holding R and using the D-Pad
+*   Added soft reset (press select, takes you back to the ROM list)
+*   Added NDS banner information (shows up in WMB) 
+
+The links without version numbers will always point to the latest version, although I'm going to start making backup copies of each version in case people ever want an old one for some reason.
+
+Built against SaTaâ€™s modified FAT libraries from REIN (SD users probably want this):
+
+*   [http://www.cryptosystem.org/projects/nds/picodriveds.nds](http://www.cryptosystem.org/projects/nds/picodriveds.nds)
+*   [http://www.cryptosystem.org/projects/nds/picodriveds.nds.gba](http://www.cryptosystem.org/projects/nds/picodriveds.nds.gba)
+
+Built against chishmâ€™s FAT libraries with just CF enabled:
+
+*   [http://www.cryptosystem.org/projects/nds/picodriveds-cf.nds](http://www.cryptosystem.org/projects/nds/picodriveds-cf.nds)
+*   [http://www.cryptosystem.org/projects/nds/picodriveds-cf.nds.gba](http://www.cryptosystem.org/projects/nds/picodriveds-cf.nds.gba)

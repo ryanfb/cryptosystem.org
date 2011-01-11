@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 3
+layout: post
+title: Woohoo
+wordpress_url: http://www.cryptosystem.org/wordpress/?p=3
+---
+$ uptime
+    Uptime:  00:24:36 up 400 days, 5 min,  9 users,  load average: 0.02, 0.05, 0.00
+
+I'm amazed at how much abuse that system takes.

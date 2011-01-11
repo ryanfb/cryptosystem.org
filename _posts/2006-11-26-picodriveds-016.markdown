@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 30
+layout: post
+title: PicoDriveDS 0.1.6
+wordpress_url: http://www.cryptosystem.org/archives/2006/11/picodriveds-016/
+---
+PicoDriveDS 0.1.6 is up! Changes:
+
+*   Added Max Media Dock FAT support (thanks chishm/Bonic)
+*   Added EZ4 FAT support (thanks cory1492/Rudolph)
+*   Reduced memory usage, 3MB ROMs should work again
+*   Added EXPERIMENTAL support for using the additional RAM on SuperCard SD carts to load ROMs larger than 3MB. This comes with the standard warning that this feature may cause file corruption on your SD card. The SCSD may also keep the Genesis ROM in GBA ROM space after a reboot, causing PicoDriveDS to see it as an appended ROM and crash on startup - to fix this issue simply power down, take the SCSD out, and wait a few seconds.
+
+Grab it [here](http://www.cryptosystem.org/projects/nds/picodriveds-0.1.6/) or in the usual location.

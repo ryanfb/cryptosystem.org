@@ -1,0 +1,40 @@
+--- 
+wordpress_id: 22
+layout: post
+title: Bad Kitty
+wordpress_url: http://www.cryptosystem.org/archives/2006/04/bad-kitty/
+---
+There's been some commotion about the [KittenAuth](http://www.schneier.com/blog/archives/2006/04/kittenauth_1.html) CAPTCHA and how effective it is or isn't. Last weekend, I decided to give the [PCA-SIFT](http://www.cs.cmu.edu/~yke/pcasift/) algorithm a whirl against it and see how it went. After having wget grab a sufficient number of images, I deleted all duplicates and put the manually verified cats in a folder and got keypoints for them. Now finding out what is and isn't a cat is as simple as a Perl script:
+
+    $ time find . -iname '0.*' -exec ./findkitty.pl {} \;
+    Finding keypoints...
+    64 keypoints found.
+    Finding keypoints...
+    105 keypoints found.
+    ./www.thepcspy.com/images/dynamic/kitty/2/0.390180844063955 is a cat
+    Finding keypoints...
+    124 keypoints found.
+    ./www.thepcspy.com/images/dynamic/kitty/3/0.390180844063955 is a cat
+    Finding keypoints...
+    96 keypoints found.
+    ./www.thepcspy.com/images/dynamic/kitty/4/0.390180844063955 is a cat
+    Finding keypoints...
+    209 keypoints found.
+    Finding keypoints...
+    118 keypoints found.
+    Finding keypoints...
+    209 keypoints found.
+    Finding keypoints...
+    173 keypoints found.
+    Finding keypoints...
+    122 keypoints found.
+    
+    real    0m6.045s
+    user    0m5.173s
+    sys     0m0.319s`
+
+I used PCA-SIFT because, while it's slower than a simple file hash (which would defeat this in its current form), it can still accurately match images which have been through a variety of modifications (i.e. pretty much all of the modifications I have seen suggested elsewhere).
+
+<img src="http://cryptosystem.org/images/pca-sift-modified.png" alt="Demonstration of PCA-SIFT on a modified image" />
+
+It would be pretty hard to use the idea for this captcha and have a sufficiently large enough database that it could defeat the method I'm using to get around it. An attacker could just have it cache all the unique images it sees and only have to have a human look at any given picture once to classify it, and if you use a large source of known images that you wouldn't have to classify (such as GIS or [kittenwar](http://kittenwar.com/)), it's reasonable to believe that an attacker could use it as well.

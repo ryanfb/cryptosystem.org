@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 33
+layout: post
+title: PicoDriveDS 0.1.7
+wordpress_url: http://www.cryptosystem.org/archives/2007/02/picodriveds-017/
+---
+PicoDriveDS 0.1.7 is up! Changes:
+
+*   Updated for DKA r20 and latest libnds.
+*   Switched to libfat with [DLDI](http://chishm.drunkencoders.com/DLDI/) support.
+*   Fixed bug where select key must be released quickly in order to go back to file selection menu.
+*   Appended ROM check now only happens if FAT is unable to init.
+*   Added untested Opera RAM expansion support, and RAM support for SCCF.
+
+Grab it [here](http://www.cryptosystem.org/projects/nds/picodriveds-0.1.7/).
