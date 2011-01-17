@@ -7,25 +7,25 @@ wordpress_url: http://www.cryptosystem.org/?p=45
 ---
 Let's say you've got a 2D image (or matrix) of the Laplacian of some function, and you want to solve for the function. This is actually relatively easy to do with MATLAB, but searching for a step-by-step example I came up with nothing, so I thought I'd show how to do it here.
 
-[Poisson's equation](http://en.wikipedia.org/wiki/Poisson_equation) relates the [Laplacian](http://en.wikipedia.org/wiki/Laplace_operator) ([latex]\Delta f = \nabla^2 f = \nabla \cdot \nabla f[/latex]) of some function with its result:
+[Poisson's equation](http://en.wikipedia.org/wiki/Poisson_equation) relates the [Laplacian](http://en.wikipedia.org/wiki/Laplace_operator) (<span class="latex">$\Delta f = \nabla^2 f = \nabla \cdot \nabla f$</span>) of some function with its result:
 
-[latex]\left(\nabla^2 u \right)\_{ij}=g\_{ij}[/latex]
+<span class="latex">$\left(\nabla^2 u \right)\_{ij}=g\_{ij}$</span>
 
-So in the [discrete Poisson equation](http://en.wikipedia.org/wiki/Discrete_Poisson_equation) we have [latex]g\_{ij}[/latex] defined as the non-boundary subset of a 2-D rectangular matrix  of dimensions [latex]m \times n[/latex]. Here [latex]2 \le i \le m-1, 2 \le j \le n-1[/latex] to allow for boundary conditions.
+So in the [discrete Poisson equation](http://en.wikipedia.org/wiki/Discrete_Poisson_equation) we have <span class="latex">$g\_{ij}$</span> defined as the non-boundary subset of a 2-D rectangular matrix  of dimensions <span class="latex">$m \times n$</span>. Here <span class="latex">$2 \le i \le m-1, 2 \le j \le n-1$</span> to allow for boundary conditions.
 
-Transforming [latex]u\_{ij}, g\_{ij}[/latex] into natural ordered vectors [latex]\left[U\right], \left[b\right][/latex] allows us to rewrite as the [latex]\left(m-2\right)\left(n-2\right) \times \left(m-2\right)\left(n-2\right)[/latex] linear system:
+Transforming <span class="latex">$u\_{ij}, g\_{ij}$</span> into natural ordered vectors <span class="latex">$\left[U\right], \left[b\right]$</span> allows us to rewrite as the <span class="latex">$\left(m-2\right)\left(n-2\right) \times \left(m-2\right)\left(n-2\right)$</span> linear system:
 
-[latex]\left[A\right]\left[U\right] = \left[b\right][/latex]
+<span class="latex">$\left[A\right]\left[U\right] = \left[b\right]$</span>
 
-So, on to the juicy bit, how to express and solve this in MATLAB given you have a [latex]m \times n[/latex] 2-D matrix defining [latex]g\_{ij}[/latex] (for consistency, we'll use variable names equivalent to what's in these equations).
+So, on to the juicy bit, how to express and solve this in MATLAB given you have a <span class="latex">$m \times n$</span> 2-D matrix defining <span class="latex">$g\_{ij}$</span> (for consistency, we'll use variable names equivalent to what's in these equations).
 
-First, we need to reshape [latex]g[/latex] into a [latex]\left(m-2\right)\left(n-2\right)\times 1[/latex] vector [latex]b[/latex] that skips the boundaries:
+First, we need to reshape <span class="latex">$g$</span> into a <span class="latex">$\left(m-2\right)\left(n-2\right)\times 1$</span> vector <span class="latex">$b$</span> that skips the boundaries:
 
     b = -reshape(g(2:(m-1),2:(n-1)),(m-2)*(n-2),1);
 
-If we have uniform Dirichlet boundary conditions [latex]u=0[/latex], [latex]b[/latex] should now be correct. If you want other boundary conditions for [latex]u[/latex], you'll need to add them to the appropriate positions in [latex]b[/latex], which I won't cover here.
+If we have uniform Dirichlet boundary conditions <span class="latex">$u=0$</span>, <span class="latex">$b$</span> should now be correct. If you want other boundary conditions for <span class="latex">$u$</span>, you'll need to add them to the appropriate positions in <span class="latex">$b$</span>, which I won't cover here.
 
-Thankfully, MATLAB has a nice built-in gallery of matrices which includes the sparse tridiagonal matrix we need for [latex]A[/latex]:
+Thankfully, MATLAB has a nice built-in gallery of matrices which includes the sparse tridiagonal matrix we need for <span class="latex">$A$</span>:
 
     A = gallery('poisson',m-2);
 
@@ -37,7 +37,7 @@ This gives us the result in vector form which we can reshape back to what we wan
 
     u = reshape(U,m-2,n-2);
 
-You can pad back your [latex]u = 0[/latex] boundary conditions with:
+You can pad back your <span class="latex">$u = 0$</span> boundary conditions with:
 
     u = padarray(u,[1 1]);
 
@@ -45,4 +45,4 @@ And verify the results with:
 
     laplacian = del2(u)*4;
 
-Which should correspond to [latex]g[/latex] (with, of course, border discrepancies). There is, perhaps, some entirely built-in way of doing all this, hidden somewhere in the terse documentation.
+Which should correspond to <span class="latex">$g$</span> (with, of course, border discrepancies). There is, perhaps, some entirely built-in way of doing all this, hidden somewhere in the terse documentation.
