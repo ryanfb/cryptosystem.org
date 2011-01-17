@@ -1,4 +1,5 @@
 --- 
+permalink: archives/2005/03/colorization-using-optimization
 wordpress_id: 6
 layout: post
 title: Colorization Using Optimization

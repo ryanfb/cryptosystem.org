@@ -1,4 +1,5 @@
 --- 
+permalink: archives/2005/05/upgraded-to-wordpress
 wordpress_id: 13
 layout: post
 title: Upgraded to Wordpress

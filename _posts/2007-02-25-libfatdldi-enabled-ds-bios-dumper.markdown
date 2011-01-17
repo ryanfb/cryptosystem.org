@@ -1,4 +1,5 @@
 --- 
+permalink: archives/2007/02/libfatdldi-enabled-ds-bios-dumper
 wordpress_id: 34
 layout: post
 title: libfat/DLDI-enabled DS BIOS Dumper

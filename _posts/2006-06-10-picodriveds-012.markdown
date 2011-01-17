@@ -1,4 +1,5 @@
 --- 
+permalink: archives/2006/06/picodriveds-012
 wordpress_id: 26
 layout: post
 title: PicoDriveDS 0.1.2

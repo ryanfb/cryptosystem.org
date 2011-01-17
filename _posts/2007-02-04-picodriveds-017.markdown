@@ -1,4 +1,5 @@
 --- 
+permalink: archives/2007/02/picodriveds-017
 wordpress_id: 33
 layout: post
 title: PicoDriveDS 0.1.7

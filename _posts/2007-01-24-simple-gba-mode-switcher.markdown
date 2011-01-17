@@ -1,4 +1,5 @@
 --- 
+permalink: archives/2007/01/simple-gba-mode-switcher
 wordpress_id: 32
 layout: post
 title: Simple GBA Mode Switcher

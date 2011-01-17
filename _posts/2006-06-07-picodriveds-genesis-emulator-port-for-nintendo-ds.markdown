@@ -1,4 +1,5 @@
 --- 
+permalink: archives/2006/06/picodriveds-genesis-emulator-port-for-nintendo-ds
 wordpress_id: 24
 layout: post
 title: PicoDriveDS - Genesis Emulator Port for Nintendo DS

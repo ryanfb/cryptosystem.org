@@ -1,4 +1,5 @@
 --- 
+permalink: archives/2006/06/building-a-fat-file-image-for-nds-homebrew
 wordpress_id: 25
 layout: post
 title: Building a FAT file image for NDS Homebrew

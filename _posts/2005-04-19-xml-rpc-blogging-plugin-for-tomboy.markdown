@@ -1,4 +1,5 @@
 --- 
+permalink: archives/2005/04/xml-rpc-blogging-plugin-for-tomboy
 wordpress_id: 10
 layout: post
 title: XML-RPC Blogging Plugin for Tomboy

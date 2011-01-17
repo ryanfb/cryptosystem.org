@@ -1,4 +1,5 @@
 --- 
+permalink: archives/2005/06/more-on-ldap-and-jabber-integration
 wordpress_id: 17
 layout: post
 title: More on LDAP and Jabber Integration

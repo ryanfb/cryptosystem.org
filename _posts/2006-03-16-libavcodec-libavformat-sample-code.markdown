@@ -1,4 +1,5 @@
 --- 
+permalink: archives/2006/03/libavcodec-libavformat-sample-code
 wordpress_id: 19
 layout: post
 title: libavcodec / libavformat sample code

@@ -39,7 +39,8 @@ module Jekyll
            'title' => title.to_s,
            'excerpt' => post[:post_excerpt].to_s,
            'wordpress_id' => post[:ID],
-           'wordpress_url' => post[:guid]
+           'wordpress_url' => post[:guid],
+           'permalink' => "archives/%02d/%02d/%s" % [date.year, date.month, slug]
          }.delete_if { |k,v| v.nil? || v == ''}.to_yaml
 
         # Write out the data and content to file

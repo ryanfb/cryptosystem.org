@@ -1,4 +1,5 @@
 --- 
+permalink: archives/2006/04/converting-netscape-cookies-files
 wordpress_id: 21
 layout: post
 title: Converting Netscape Cookies Files

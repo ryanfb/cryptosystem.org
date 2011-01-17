@@ -1,4 +1,5 @@
 --- 
+permalink: archives/2005/02/woohoo
 wordpress_id: 3
 layout: post
 title: Woohoo

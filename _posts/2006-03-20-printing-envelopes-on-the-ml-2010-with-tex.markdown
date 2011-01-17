@@ -1,4 +1,5 @@
 --- 
+permalink: archives/2006/03/printing-envelopes-on-the-ml-2010-with-tex
 wordpress_id: 20
 layout: post
 title: Printing Envelopes on the ML-2010 with TeX

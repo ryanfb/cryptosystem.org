@@ -1,4 +1,5 @@
 --- 
+permalink: archives/2006/04/bad-kitty
 wordpress_id: 22
 layout: post
 title: Bad Kitty

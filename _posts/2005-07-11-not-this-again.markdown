@@ -1,4 +1,5 @@
 --- 
+permalink: archives/2005/07/not-this-again
 wordpress_id: 18
 layout: post
 title: Not This Again

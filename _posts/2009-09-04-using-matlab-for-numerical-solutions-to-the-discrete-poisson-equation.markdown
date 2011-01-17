@@ -1,4 +1,5 @@
 --- 
+permalink: archives/2009/09/using-matlab-for-numerical-solutions-to-the-discrete-poisson-equation
 wordpress_id: 45
 layout: post
 title: Using MATLAB for numerical solutions to the discrete Poisson equation

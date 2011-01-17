@@ -1,4 +1,5 @@
 --- 
+permalink: archives/2005/04/ubuntu-tastic
 wordpress_id: 8
 layout: post
 title: Ubuntu-tastic

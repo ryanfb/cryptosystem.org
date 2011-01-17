@@ -1,4 +1,5 @@
 --- 
+permalink: archives/2005/04/browser-history-searching
 wordpress_id: 7
 layout: post
 title: Browser History Searching
