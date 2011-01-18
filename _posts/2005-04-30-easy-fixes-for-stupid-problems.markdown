@@ -2,6 +2,8 @@
 permalink: archives/2005/04/easy-fixes-for-stupid-problems
 wordpress_id: 12
 layout: post
+comments: []
+
 title: Easy Fixes for Stupid Problems
 wordpress_url: http://www.cryptosystem.org/wordpress/?p=12
 ---

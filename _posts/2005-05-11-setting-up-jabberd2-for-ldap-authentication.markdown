@@ -2,6 +2,8 @@
 permalink: archives/2005/05/setting-up-jabberd2-for-ldap-authentication
 wordpress_id: 14
 layout: post
+comments: []
+
 title: Setting Up Jabberd2 for LDAP Authentication
 wordpress_url: http://www.cryptosystem.org/archives/2005/05/setting-up-jabberd2-for-ldap-authentication/
 ---

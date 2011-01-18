@@ -2,6 +2,44 @@
 permalink: archives/2005/03/colorization-using-optimization
 wordpress_id: 6
 layout: post
+comments: 
+- :comment_content: |-
+    Now that I have some more bandwidth/storage and the torrent is long dead, here's a link to the R7SP1 Windows MCR: http://cryptosystem.org/projects/colorize/MCRInstaller.exe
+    
+    As for animated GIF's, I'm not sure. I haven't looked at the code in almost a year, but it's quite possible that despite the paper talking about tracking regions across image sequences, that the Matlab code only handles bitmaps. You could try breaking up the GIF's into bitmaps with something like ImageMagick and seeing how that goes.
+  :comment_date: 2006-03-16 21:52:24 -05:00
+  :comment_author: ryanfb
+- :comment_content: The torrent is down at the moment, I found another MCR but it was for 7.2, returns an error. Looks like I need 7.1, can you reseed the torrent. Or give a link to the file?
+  :comment_date: 2006-01-17 08:38:45 -05:00
+  :comment_author: Michael
+- :comment_content: |
+    Hi! I've managed to make the method work for bmp files. When I tried with gif (animated) files I've got an error response
+    
+    Error in ==&gt; C:\matlabR12\work\getColorExact.m
+    On line 3  ==&gt; n=size(ntscIm,1); m=size(ntscIm,2);
+    
+    ??? Error using ==&gt; rgb2ntsc
+    RGBMAP must have 3 columns.
+    
+    Error in ==&gt; C:\matlabR12\work\colorize.m
+    On line 16  ==&gt; sgI=rgb2ntsc(gI);
+    
+    
+    I don't know what I'm doing wrong.
+    
+    
+
+  :comment_date: 2006-03-04 07:48:04 -05:00
+  :comment_author: Alex
+- :comment_content: |
+    <p>Hi -</p>
+    
+    <p>I've been trying unsuccessfully for years to run this thing in MATLAB, and using your downloads, I've finally gotten it to work.  Thank you!</p>
+    
+    <p>Now... how do I process a folder full of sequential images?  I can get it to process one set at a time (A.bmp, Bmarked.bmp Zoutput.bmp) but I have no idea how to make it work on a few hundred sequential images.</p>
+
+  :comment_date: 2009-06-28 16:11:21 -04:00
+  :comment_author: Robot C
 title: Colorization Using Optimization
 wordpress_url: http://www.cryptosystem.org/wordpress/?p=6
 ---

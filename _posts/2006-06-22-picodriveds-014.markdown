@@ -2,6 +2,370 @@
 permalink: archives/2006/06/picodriveds-014
 wordpress_id: 28
 layout: post
+comments: 
+- :comment_content: |
+    <p>hmm a new renderer? :D sound good</p>
+
+  :comment_date: 2006-06-23 08:49:36 -04:00
+  :comment_author: Junixx
+- :comment_content: |
+    <p>thanks.</p>
+
+  :comment_date: 2006-06-23 17:06:50 -04:00
+  :comment_author: allan.shaw
+- :comment_content: |
+    <p>looks good. Thanks again!!</p>
+
+  :comment_date: 2006-06-25 03:16:27 -04:00
+  :comment_author: Havoc_012
+- :comment_content: |
+    <p>It doesn't work on my Lite :(</p>
+
+  :comment_date: 2006-06-25 13:30:53 -04:00
+  :comment_author: The-RockeR
+- :comment_content: |
+    <p>How does this work.I put picodrive.ds.gba on my gba cart and my rom but nothing happend when i booted up the ds.</p>
+
+  :comment_date: 2006-07-01 12:33:07 -04:00
+  :comment_author: David
+- :comment_content: |
+    <p>Thanks a lot! Great work !!!!</p>
+
+  :comment_date: 2006-07-04 08:34:27 -04:00
+  :comment_author: Juarrox
+- :comment_content: |
+    <p>Does this work for SuperCard CF? All I get are two white screens when I run the program :(.</p>
+
+  :comment_date: 2006-07-10 05:26:48 -04:00
+  :comment_author: Tak
+- :comment_content: |
+    <p>It should work for SCCF. Make sure you're using the .ds.gba version, renamed to have a .nds extension. Don't run the file through the SuperCard patching software either.</p>
+
+  :comment_date: 2006-07-10 10:48:28 -04:00
+  :comment_author: ryanfb
+- :comment_content: |
+    <p>Great job!!!
+    Looking forward to the new renderer. ohaha~~</p>
+
+  :comment_date: 2006-07-13 17:57:10 -04:00
+  :comment_author: Joseph
+- :comment_content: |
+    <p>Thanks mate, this thing really rocks!</p>
+    
+    <p>Will the new renderer get the emulation speed any closer to that magical 100%?</p>
+
+  :comment_date: 2006-07-14 00:35:39 -04:00
+  :comment_author: lazyman
+- :comment_content: |
+    <p>Good work, hope to see new version soon</p>
+    
+    <p>Thanks.</p>
+
+  :comment_date: 2006-07-14 00:54:22 -04:00
+  :comment_author: Thais
+- :comment_content: |
+    <p>Doesn't work on my lite either: M3 SD</p>
+
+  :comment_date: 2006-07-14 01:20:48 -04:00
+  :comment_author: Necron
+- :comment_content: |
+    <p>Sounds great, but do any of these versions work on M3 Mini SD? I have tried versions 0.1.2, 0.1.3, and 0.1.4. I have tried both the .nds ones and the .ds.gba ones.</p>
+    
+    <p>I've been loading it using the M3 Game Manager. Should I not be doing that? The only one that was even close to working was 0.1.3, but it just gives me a jumbled top screen. (I have tried pressing both start and A).</p>
+    
+    <p>Oh and one last thing, should I just put the .sms file on the card? Or do I have to load that through M3 Game Manager as well?</p>
+
+  :comment_date: 2006-07-16 09:19:24 -04:00
+  :comment_author: fajam00m00
+- :comment_content: |
+    <p>0.1.3 should work on M3, 0.1.4 may or may not. You shouldn't be patching any versions using your cart's software though (which I would assume is what the M3 Game Manager is doing). SMS files sound like they would be for Sega Master System, which will not work with PicoDriveDS. Genesis/Mega Drive ROMs with the extensions .bin, .smd, and .gen should just be copied to the card.</p>
+
+  :comment_date: 2006-07-16 20:29:12 -04:00
+  :comment_author: ryanfb
+- :comment_content: |
+    <p>0.1.4 works in my m3 mini sd. I used the ".nds" extension. Just drag and drop the file on the flashcard, no patching required. I know that this is really passe but make sure you boot the program with start instead of A if your having trouble with the m3 mini sd.</p>
+    
+    <p>Playing the old sonic games with no sound and a little frameskipping is still a blast and its way better than anything sonic team has came up with recently    ( =</p>
+    
+    <p>Infact this is one of the fastest improving emulators that I've seen.
+    A new renderer sounds pretty sweet. I can't wait. ^_^'</p>
+
+  :comment_date: 2006-07-17 00:23:27 -04:00
+  :comment_author: Havoc_012
+- :comment_content: |
+    <p>Hi RYan
+    Great work!, my favorite emu on DS, 
+    i was working on some gui for picodrive, so pls. i cant see your email, write me msg. on dbennar@gmail.com and i will send you preview png,Thanks
+    D.</p>
+
+  :comment_date: 2006-07-17 03:22:00 -04:00
+  :comment_author: david
+- :comment_content: |
+    <p>Great stuff, keep it going.  Was wondering if sound has been implemented yet, or could it just be a problem with my (Warsong) ROM?</p>
+
+  :comment_date: 2006-07-17 14:38:48 -04:00
+  :comment_author: steve
+- :comment_content: |
+    <p>Nope, no sound yet.</p>
+
+  :comment_date: 2006-07-17 17:10:22 -04:00
+  :comment_author: ryanfb
+- :comment_content: |
+    <p>I was wondering if this will be compatible with the EZ4 Lite. I'm planning on getting one of those for my DS Lite. Thanks.</p>
+
+  :comment_date: 2006-07-24 10:02:51 -04:00
+  :comment_author: Jei
+- :comment_content: |
+    <p>I have an EZ4 Lite, and the next release may support reading from it using the driver from Moonshell. But I don't know of any code yet for writing to the EZ4, so things like SRAM saving won't work.</p>
+
+  :comment_date: 2006-07-24 11:12:54 -04:00
+  :comment_author: ryanfb
+- :comment_content: |
+    <p>Yeah I'm eagerly awaiting the EZ4 Lite version.
+    I don't have a problem with it not saving: I just wanna play Castlevania Bloodlines on my DS.
+    Anything else would be icing on a delicious Sega Cake.  :D</p>
+
+  :comment_date: 2006-07-26 17:24:20 -04:00
+  :comment_author: TGMagus
+- :comment_content: |
+    <p>Still no luck. Sorry about writing .sms before. That was a typo. I meant .smd. Well anyway, I still haven't been able to get any version to work on my M3 Mini SD. I have a 2 GB Sandisk Mini SD card if that has anything to do with it. I have tried version 0.1.3, as you said. I used the .nds file. I just dragged it in there (no manager). I dragged Sonic 3 (the smd file) in there as well. I turned on my DS and pressed Start to load the emulator. I just got two black screen with some random colored stripes of pixels on my top screen. Any ideas? Could it be the rom?</p>
+
+  :comment_date: 2006-07-29 21:29:02 -04:00
+  :comment_author: fajam00m00
+- :comment_content: |
+    <p>still waiting update</p>
+    
+    <p>:)</p>
+
+  :comment_date: 2006-08-01 09:13:36 -04:00
+  :comment_author: allan.shaw
+- :comment_content: |
+    <p>Does this support fixed regions? I'd love to play Sensible Soccer again but the rom checks to make sure it is on a 'European megadrive' on startup</p>
+    
+    <p>Either way keep up the great work - much appreciate your efforts to let the rest of us play these classics. :)</p>
+
+  :comment_date: 2006-08-02 13:47:42 -04:00
+  :comment_author: olax
+- :comment_content: "<p>Don\xC3\x82\xC2\xB4t work sound.... I have SC SD... Any Ideas? Update?</p>\n"
+  :comment_date: 2006-08-03 08:54:59 -04:00
+  :comment_author: Fefe
+- :comment_content: |
+    <p>I'm in the same situation like fajam00m00...
+    On M3 SD the emulator works great, but on the M3 mini SD in doesn't work... :(
+    Can you use the fat library of the moonshell for the next release?
+    Moonshell works well on my M3 mini SD unlike rein or reinmoon... -_-
+    Please support M3 mini SD!
+    If you want a tester for the M3 mini SD version, here I am! ;)
+    Thanks
+    Bye</p>
+
+  :comment_date: 2006-08-04 18:03:46 -04:00
+  :comment_author: mmmax
+- :comment_content: |
+    <p>lol I'm waiting for an update also</p>
+
+  :comment_date: 2006-08-04 21:20:12 -04:00
+  :comment_author: Junixx
+- :comment_content: |
+    <p>i got 2 white screens after booting the picodrive, using a supercard as well as a superkey combo on my dslite, is the picodrive supportable for my current setup now? or do i have to wait for the next version ? great work btw! :&gt;</p>
+
+  :comment_date: 2006-08-05 22:37:01 -04:00
+  :comment_author: Daryl
+- :comment_content: |
+    <p>Does this not function on a G6lite? I attempt to load it and it seemed to boot up okay, but on the black screen with white text, It said to load a rom, and there was an arrow: -&gt; but there isn't anything else. I have the roms of the appropriate format (.bin) in the same directory as the file itself, and nothing shows up. If I press A it will say the loading is finished, and "Rom size: 0", and nothing happens beyond that. Am I overlooking something obvious, or does it just not work with the G6lite?</p>
+
+  :comment_date: 2006-08-06 21:27:52 -04:00
+  :comment_author: BombBomb
+- :comment_content: |
+    <p>SCSD: Use the .nds.gba file, renamed to picodriveds.sc.nds. This works fine on my SCSD.</p>
+    
+    <p>M3 Mini: not sure what's up, I don't have any M3 carts but I figured it used the same FAT stuff as the M3, so I'm not sure why it doesn't work.</p>
+    
+    <p>G6lite: I don't think there's any FAT libs for these carts yet, at least that I've seen.</p>
+
+  :comment_date: 2006-08-07 11:34:46 -04:00
+  :comment_author: ryanfb
+- :comment_content: |
+    <p>Picodrive works fine on my M3 mini SD. Are you using the new/smaller m3 mini sd? Because hardly any homebrew is compatible with that. Put your roms and the emulator in a seperate folder. Use the ".nds" file.</p>
+
+  :comment_date: 2006-08-07 14:41:54 -04:00
+  :comment_author: Havoc_012
+- :comment_content: |
+    <p>Umm...I guess I'm using the new M3 Mini SD. I didn't know there were multiple versions of the Mini SD...</p>
+    
+    <p>Well anyway, when you say "put your roms and the emulator in a seperate folder", what do you mean by that? Do you mean that I should create folders on the mini SD card? Thanks in advance.</p>
+
+  :comment_date: 2006-08-07 19:58:11 -04:00
+  :comment_author: fajam00m00
+- :comment_content: |
+    <p>The new M3 Mini SD sits flush in the gba slot. Pretty easy to tell which one you got ^_^ .</p>
+    
+    <p>What I was trying to say earlier is to create a folder in the root directory of the flashcart. I put the emulator and the roms in seperate folders. For whatever reason, picodrive wouldn't boot on my m3 if the picodrive.nds file and the roms where in the same location.</p>
+    
+    <p>Hope that answers your question.</p>
+
+  :comment_date: 2006-08-08 03:14:04 -04:00
+  :comment_author: Havoc_012
+- :comment_content: |
+    <p>This is odd... the arcade mode for Super Hang-On has a bunch of graphical errors, but you actually still can see the road, but it's hard.</p>
+    
+    <p>Another thing is that oddly enough, the image of the road is too small than where the road physically is.  I found that out cause I didn't slow down at all when I went off the road a bit and the AI players looked like they were racing off the road. XD</p>
+    
+    <p>But the original mode works perfectly O_o  No graphical errors at all, and a correct-sized road too.</p>
+
+  :comment_date: 2006-08-08 17:41:11 -04:00
+  :comment_author: Nintendo Maniac 64
+- :comment_content: |
+    <p>Didn't work...Sigh.</p>
+    
+    <p>Well, I guess I'll just have to wait for the next update. Please do what you can to get this to work on the new M3 Mini SD. Thanks.</p>
+
+  :comment_date: 2006-08-08 19:16:49 -04:00
+  :comment_author: fajam00m00
+- :comment_content: "<p>I put picodrive on my SD card for my supercard, and the 3 games i put on worked great, but i wanted to put more games on so i removed the SD card from my supercard and put it in my PC and it did not recognize my SD card (1GB sandisk) which i only recently bought, i thought thats odd, i think picodrive corupted my SD card, i think this is a fantastic emulator, but its just ruined a \xC3\x82\xC2\xA321 SD card which im a little pissed about , does anyone no how to fix this problem? please!!!!!!!!!</p>\n"
+  :comment_date: 2006-08-09 05:11:45 -04:00
+  :comment_author: Dom
+- :comment_content: |
+    <p>Have you tried reformatting the SD card? I can accept that it might potentially corrupt a FAT partition (although I've never had it happen to me), but I have a hard time seeing how it could render a card completely unusable if there wasn't a preexisting problem.</p>
+
+  :comment_date: 2006-08-09 07:09:26 -04:00
+  :comment_author: ryanfb
+- :comment_content: |
+    <p>well the SD card i was using was working brill i even put a couple of commercial games on it and just after i put the picodrive emulator on the SD my PC wouldnt recognize it, ive tryed formatting it, but when i go to my computer and open the SD (drive H on my PC) its say please insert drive, as if its not there, is there anything i can do ?</p>
+
+  :comment_date: 2006-08-09 07:28:36 -04:00
+  :comment_author: Dom
+- :comment_content: |
+    <p>ryanfb, I don't know why picodrive doesn't work on M3 mini SD (newer model), but moonshell for New M3 SD/Mini SD works well on it!
+    Can you use the library of the moonshell for make it works on M3 mini SD?</p>
+
+  :comment_date: 2006-08-10 10:05:11 -04:00
+  :comment_author: mmmax
+- :comment_content: |
+    <p>^^^^My sentiments exactly^^^^</p>
+
+  :comment_date: 2006-08-10 14:56:54 -04:00
+  :comment_author: fajam00m00
+- :comment_content: |
+    <p>One news:
+    The new version of REIN works on M3 mini SD now! :)
+    You can use the library of the REIN r16 for the picodrive too. ;)</p>
+
+  :comment_date: 2006-08-11 15:06:05 -04:00
+  :comment_author: mmmax
+- :comment_content: |
+    <p>How can I get this to work on Max Media Dock?</p>
+
+  :comment_date: 2006-08-14 17:41:26 -04:00
+  :comment_author: Bonic
+- :comment_content: |
+    <p>Hi ryanfb, 
+    today Danny of the M3/G6 team has released the M3/G6 fatlib.
+    Here is the readme:
+    G6/G6lite/M3CF/M3SD Read/write lib</p>
+    
+    <p>15-08-2006
+    -G6 lite is supported
+    -M3SDmini is supported</p>
+    
+    <p>Feedback is welcome. Developers may contact us by email to info@g6flash.com. Thanks.</p>
+    
+    <p>You can get the file here (need registration):
+    http://forums.maxconsole.net/showthread.php?t=27238</p>
+    
+    <p>Can you add this to the picodrive ds?
+    Please answer me! ;)</p>
+
+  :comment_date: 2006-08-15 08:22:54 -04:00
+  :comment_author: mmmax
+- :comment_content: |
+    <p>I'll look at integrating those libs. The main problem with mixing and matching is it's difficult to know if one card's driver is going to screw another - for example the EZ4 driver I have from Moonshell always reports that the card is inserted, so I'd have to do a separate build just for EZ4.</p>
+    
+    <p>As for the Max Media Dock/Player, I'm not sure if there's any FAT drivers around for those devices.</p>
+    
+    <p>Edit: I just looked at the libs provided for the G6/M3 mini, and for some reason they decided to distribute them in binary-only form. This means that I would have to do yet another build just for those carts, which IME creates confusion and makes getting useful feedback more difficult.</p>
+
+  :comment_date: 2006-08-15 10:29:55 -04:00
+  :comment_author: ryanfb
+- :comment_content: |
+    <p>I still wonder when you will make this work for MMD..and MMD has nofat :P</p>
+
+  :comment_date: 2006-08-15 15:08:15 -04:00
+  :comment_author: Bonic
+- :comment_content: |
+    <p>Very good!</p>
+    
+    <p>Please, new version with sound.</p>
+    
+    <p>Congratz!</p>
+
+  :comment_date: 2006-08-16 00:19:59 -04:00
+  :comment_author: marcelo
+- :comment_content: |
+    <p>In a forum I've read this:</p>
+    
+    <p>For all series of M3-SD included M3-SDmini, we recommend to make the
+    following changes in the code of the "io_m3sd.c".
+    define CF_STS_INSERTED1  0x20</p>
+    
+    define CF_STS_INSERTED2  0x30
+    
+    define CF_STS_INSERTED3  0x22
+    
+    define CF_STS_INSERTED4  0x32
+    
+    define isM3ins(sta) ((sta == CF_STS_INSERTED1)||(sta ==
+    
+    <p>CF_STS_INSERTED2)||(sta == CF_STS_INSERTED3)||(sta == CF_STS_INSERTED4))</p>
+    
+    <ul>
+    <li>Thanks to the developer of RAIN, we referred to the code of RAIN r16
+    io_m3sd.c and tested that it worked fine in all series of M3.</li>
+    </ul>
+    
+    <p>This is a part of an e-mail of Danny! ;)</p>
+
+  :comment_date: 2006-08-16 03:22:22 -04:00
+  :comment_author: mmmax
+- :comment_content: |
+    <p>Hello Ryan! 
+    There is no new release for long time... I feel the next will be soooooo great ^^
+    Isn't it? ;o)</p>
+
+  :comment_date: 2006-08-16 17:05:35 -04:00
+  :comment_author: toiletking
+- :comment_content: |
+    <p>Cool.. works fine here on supercard mini sd.   As a big amiga fan I wanted to play turrican and xenon II on my DS, in the lack of a amiga emulator picodrive lets me play both.  Frame rates are a tad slow, but hopefully that'll get better no?</p>
+
+  :comment_date: 2006-08-18 10:03:41 -04:00
+  :comment_author: Amiga
+- :comment_content: |
+    <p>Can someone clue me in here?  I'm trying to get this running on my M3 MiniSD slim v2.  With the new firmware release(v25), I am now able to run all of the homebrew that I have tried(before v25, only one homebrew was possible).  Is there some sort of builder for picodriveds?  I've tried loading both the nds file and the nds.gba file(renamed to .nds for the M3), and all I get is either two white screens, or two black screens.  I have one genesis rom in the folder with it, and it is in .bin format.</p>
+
+  :comment_date: 2006-08-20 05:59:34 -04:00
+  :comment_author: Synonymous
+- :comment_content: |
+    <p>I believe today is the last day to submit homebrew to the neoflash coding competition. Do you plan on submiting PicoDrive DS? You can win a Nintendo Wii out of it. I'd say that its worth a shot, you got one of the best homebrews out there.</p>
+    
+    <p>Just a suggestion ;)</p>
+
+  :comment_date: 2006-08-20 16:53:02 -04:00
+  :comment_author: Havoc_012
+- :comment_content: |
+    <p>will this work with the DS lite web broswer on the memory expansion card, or is extra hardware required?</p>
+
+  :comment_date: 2007-09-03 20:21:55 -04:00
+  :comment_author: Oddio
+- :comment_content: |
+    <p>what would happen if you patch it using a new arm7 file using DS Lazy. It sounds like a stupid idea, i know. I don't even think the picodrive thing has a arm7 file. But thats what you have to do for the latest ds games to work on your m3 now.</p>
+
+  :comment_date: 2007-10-16 05:13:03 -04:00
+  :comment_author: James
+- :comment_content: |
+    <p>Picodriveds definitely doesn't read the FAT on an EZ-FLASH IV miniSD cartridge, so I had to append the ROM to the emulator. Seems like a waste having multiple copies of the emulator for all the ROMs I got.</p>
+
+  :comment_date: 2008-01-10 00:15:27 -05:00
+  :comment_author: Brent
 title: PicoDriveDS 0.1.4
 wordpress_url: http://www.cryptosystem.org/archives/2006/06/picodriveds-014/
 ---

@@ -2,6 +2,8 @@
 permalink: archives/2005/03/kernel-development-with-qemu
 wordpress_id: 5
 layout: post
+comments: []
+
 title: Kernel development with qemu
 wordpress_url: http://www.cryptosystem.org/wordpress/?p=5
 ---

@@ -2,6 +2,891 @@
 permalink: archives/2007/02/picodriveds-017
 wordpress_id: 33
 layout: post
+comments: 
+- :comment_content: |
+    <p>=D needing sound =P its a great port congratulations, but need to add sound to it =P</p>
+
+  :comment_date: 2007-02-18 12:30:58 -05:00
+  :comment_author: SyaoranLi
+- :comment_content: |
+    <p>Thx for this great app! Runing perfect and fast. :)</p>
+
+  :comment_date: 2007-02-18 02:44:28 -05:00
+  :comment_author: Ragezort
+- :comment_content: |
+    <p>Haha~~~I'm waiting so~~~~~~~~~long. good job 0.1.7.</p>
+
+  :comment_date: 2007-02-04 23:00:31 -05:00
+  :comment_author: "liang #17"
+- :comment_content: |
+    <p>Awesome. I've been really looking forward to this. Does the opera ram support provide a speed increase? If it does, I might have to buy the web browser (=</p>
+
+  :comment_date: 2007-02-05 00:24:22 -05:00
+  :comment_author: Havoc_012
+- :comment_content: |
+    <p>Hi,</p>
+    
+    <p>Will you add M3 lite ram support ?</p>
+    
+    <p>the emu is running quite good and keep up the good work. :)</p>
+
+  :comment_date: 2007-02-05 03:56:06 -05:00
+  :comment_author: VMAN
+- :comment_content: |
+    <p>Nice to see some new releases :)
+    Havoc_012 : It will not increase speed, it will allow you to load some big roms that can't be loaded elseway (because internal DS' RAM is not big enough).
+    I own the opera expention card, but i'm using a SLOT2 flashcard so I can't test it with this release :(</p>
+
+  :comment_date: 2007-02-05 05:13:20 -05:00
+  :comment_author: Sylver
+- :comment_content: |
+    <p>does this have sound yet ?</p>
+
+  :comment_date: 2007-02-05 06:43:07 -05:00
+  :comment_author: bobbin the bob
+- :comment_content: |
+    <p>Thanks for the new release!</p>
+
+  :comment_date: 2007-02-05 07:29:47 -05:00
+  :comment_author: Cory Roberts
+- :comment_content: |
+    <p>Yeeeepieeeee :).
+    Goin' to test it right here, right now!</p>
+
+  :comment_date: 2007-02-05 15:09:17 -05:00
+  :comment_author: DEF
+- :comment_content: |
+    <p>I use M3 SD.</p>
+    
+    <p>Seems speed is better. New menu selection works, but i can't load another game when one is loaded.</p>
+    
+    <p>Save states works fine for stable games.</p>
+    
+    <p>Compatibility seems the same.</p>
+    
+    <p>Most strange graphical bugs: assault suit leynos / target earth.</p>
+    
+    <p>Most roxor megadriver: ryanfb ;) thanks dude.</p>
+
+  :comment_date: 2007-02-05 15:34:36 -05:00
+  :comment_author: DEF
+- :comment_content: |
+    <p>YOU ROCK... this emu is very good, and I hope you keep up the work and improve it.  I use the M3 DSsimply, no problems.  thanks</p>
+
+  :comment_date: 2007-02-05 16:10:21 -05:00
+  :comment_author: Aaron Robinson
+- :comment_content: |
+    <p>I can barely put into words how freaking cool it is playing streets of rage, golden axe and micro machines on my ds. Awesome work, seriously.
+    About the only suggestion I could add would be adding support for expanded ram with the m3 slot2 cards (similar to the opera support).
+    If you ever want some help with menus/logos or other graphics get in touch too :)</p>
+
+  :comment_date: 2007-02-05 16:39:17 -05:00
+  :comment_author: soully
+- :comment_content: |
+    <p>thanks for your hard work!!!</p>
+
+  :comment_date: 2007-02-05 18:15:19 -05:00
+  :comment_author: Edge
+- :comment_content: |
+    <p>First of all thanks for this emulator.  Playing Sonic on my DS with save states is great!  I wanted to ask you if you had ever talked to the guys who have been working on a Dreamcast Genesis emulator for a good while. It's taken years but they finally have good speed and sound and may have some tips to help you improve this even more.  Here's a link to a long thread about it:  http://dcemulation.com/phpBB/viewtopic.php?t=89951</p>
+
+  :comment_date: 2007-02-05 23:14:42 -05:00
+  :comment_author: GameGeezer
+- :comment_content: |
+    <p>I may be missing something but there is no where on the front page or in this post that says what Picodrive actually does... Is there a readme or documentation somewhere?</p>
+
+  :comment_date: 2007-02-06 01:42:51 -05:00
+  :comment_author: M
+- :comment_content: |
+    <p>Decided to give this a try as I fancied playing Goldenaxe - downloaded the file and put it on my supercard SD (renamed the .gba.nds file to .nds otherwise I just get a white screen) along with a goldenaxe2.smd file (in the same directory)  but I just get a black screen with the following messages:</p>
+    
+    <p>Trying to init FAT...
+    FAT init failed.
+    Appended ROM check...ROM NOT FOUND!</p>
+    
+    <p>No way to load ROMs found.</p>
+    
+    <p>I see that the guy who made this uses a Supercard SD, so I figure I'm doing something horribly wrong.  Might try another rom.</p>
+
+  :comment_date: 2007-02-06 04:34:45 -05:00
+  :comment_author: thebawp
+- :comment_content: |
+    <p>Tried goldenaxe.smd and am still getting the same error.  Any advice would be appreciated.</p>
+
+  :comment_date: 2007-02-06 04:38:13 -05:00
+  :comment_author: thebawp
+- :comment_content: |
+    <p>Hi ! It doesn't work on my DS Lite with SC Lite with transflash :( I've tried to patch it with DLDI but still it doesn't work. Two white screens and nothing else. Any ideas ? Golden Axe would by great on DS, but don't know what to do. Everyting else works great: Spectrum emulator, SCUMM, even SNES.</p>
+
+  :comment_date: 2007-02-06 06:58:38 -05:00
+  :comment_author: Caesar
+- :comment_content: |
+    <p>Ok, i've read previous comments and renamed .gba to .nds. Works, but doesn't see ROMs. I will not surrender :D I have to run it ;)</p>
+
+  :comment_date: 2007-02-06 07:33:59 -05:00
+  :comment_author: Caesar
+- :comment_content: |
+    <p>Huh, sorry for so many posts :) It works ! Renaming and MERGING ROMS WITH PICODRIVE (copy /b picodrivedszgba.nds+romname.ext picodriveds-withrom.ext) worked ! Thanks for great emu. Now, i have to play !</p>
+
+  :comment_date: 2007-02-06 07:44:22 -05:00
+  :comment_author: Caesar
+- :comment_content: |
+    <p>Works on M3 Lite. Very nice. Be assured that there are people who appreciate what you are doing very much.</p>
+
+  :comment_date: 2007-02-06 11:34:07 -05:00
+  :comment_author: phanboy_iv
+- :comment_content: |
+    <p>I tested Chaos Engine and speed seems good (played to second level)! Great work man however some README with instructions and features would be nice ;)</p>
+
+  :comment_date: 2007-02-06 13:06:34 -05:00
+  :comment_author: bitskull
+- :comment_content: |
+    <p>Could someone explain exactly how you merge the roms with picodrive?  I'm rubbish at this type of thing, thanks!</p>
+
+  :comment_date: 2007-02-06 15:10:40 -05:00
+  :comment_author: thebawp
+- :comment_content: |
+    <p>Ok, something I haven't been able to figure out is why the coder hasn't tried fixing the scaling problem.  The dimensions of the DS's screen are 256x192, no larger.  Every other coder has figured this out already.  I know this will not get posted because only the 'praise you' comments get posted, but at least it may get read by a mod or someone before it gets deleted.</p>
+
+  :comment_date: 2007-02-06 15:59:31 -05:00
+  :comment_author: synonymous
+- :comment_content: |
+    <p>synonymous: If I implemented bilinear scaling, people like you would no doubt complain because it will impact the speed. Right now it's using the built-in scaling from the DS video hardware, meaning it doesn't cost CPU cycles.</p>
+    
+    <p>As for the other issue, I didn't approve your previous comment because it had nothing to do with the GBA mode switcher post. It was just the same useless trolling, whining, and "PicoDriveDS is dead" speculation I've seen every month since I first released it.</p>
+
+  :comment_date: 2007-02-06 16:53:31 -05:00
+  :comment_author: ryanfb
+- :comment_content: "<p>I'm getting the same problem as thebawp</p>\n\n\
+    <p>Trying to init FAT\xC3\xA2\xE2\x82\xAC\xC2\xA6\n\
+    FAT init failed.\n\
+    Appended ROM check\xC3\xA2\xE2\x82\xAC\xC2\xA6ROM NOT FOUND!</p>\n\n\
+    <p>No way to load ROMs found.</p>\n\n\
+    <p>I have a Supercard DS One with 1g MicroSD,\n\
+    any help would be appreciated.</p>\n"
+  :comment_date: 2007-02-06 19:20:24 -05:00
+  :comment_author: c.hyjinx
+- :comment_content: |
+    <p>If FAT init fails for your cart, you probably need to download the <a href="http://chishm.drunkencoders.com/DLDI/" rel="nofollow">DLDI</a> driver for your cart and patch the .nds executable using dlditool. Instructions are available on the DLDI page.</p>
+
+  :comment_date: 2007-02-06 20:32:44 -05:00
+  :comment_author: ryanfb
+- :comment_content: |
+    <p>To thebawp and c.hyjinx
+    1. Patch file if needed
+    2. to merge files with emu just write copy /b picodriveds.nds+romname.ext picodriveds-withrom.ext</p>
+    
+    <p>Works great for me ! Last night was Gods night :D</p>
+
+  :comment_date: 2007-02-07 01:53:14 -05:00
+  :comment_author: Caesar
+- :comment_content: |
+    <p>Tried patching - am told the patch process is successful, but I'm still getting the same result.  Caesar, where do I 'write' this command - I've tried in the command prompt but I just get told it's incorrect.  Is there any documentation available for Picodrive, because I'd gladly look at it, but aside from RyanB's instructions in his original blog post (which I followed with no success) I can't find anything.</p>
+    
+    <p>Thanks.</p>
+
+  :comment_date: 2007-02-07 04:28:16 -05:00
+  :comment_author: thebawp
+- :comment_content: |
+    <p>Sorry for the double post.  I downloaded 0.1.6 and it's working fine with no need to append roms to the file, so I guess I must be doing something wrong when I'm patching with the DLDI tool.  No idea what though, I downloaded scsd.dldi, used the dldi tool - pointed it to the scsd.dldi then at picodrive.  It reports that the patch is successful, and yet I still get the FAT init failure on my supercard.    I've tried wiping my SD card and reformatting and still get the same, so I'm not sure where I'm going wrong.</p>
+    
+    <p>Anyway, brilliant work on this Ryanfb - I've never had much experience with the earlier Sega consoles...I find it somewhat ironic that I'll be rectifying that on a Nintendo console.  X)</p>
+
+  :comment_date: 2007-02-07 06:23:14 -05:00
+  :comment_author: thebawp
+- :comment_content: |
+    <p>I appended the rom just like it says to with the copy command. When I run the file it says it cant find any appended roms. I'm using a crappy little Datel Games n' Music Slot-1 card. I plan on getting something better so its not that big a deal, it's just odd that it doesn't work.</p>
+
+  :comment_date: 2007-02-08 16:02:45 -05:00
+  :comment_author: Knifethrower
+- :comment_content: |
+    <p>This doesn't work on the Supercard SD. I've tried patching it with the DLDI patcher and the Supercard SD DLDI patch, still says no ROMs found.</p>
+
+  :comment_date: 2007-02-08 19:09:53 -05:00
+  :comment_author: Matt
+- :comment_content: |
+    <p>I'm having problems getting PicoDriveDS working on my M3 Simply - perhaps someone could help?</p>
+    
+    <p>I've copied the .nds file and a .bin rom over to my DS, but when I run picodrive, all I get on the bottom screen is:</p>
+    
+    <pre><code>          Load File
+    </code></pre>
+    
+    <p>-&gt;</p>
+    
+    <p>And then I don't seem to be able to do anything at all.</p>
+    
+    <p>Any ideas?</p>
+
+  :comment_date: 2007-02-09 04:32:36 -05:00
+  :comment_author: frosty
+- :comment_content: |
+    <p>Awesome! keep up the good work my friend :D genesis emulator for DS is just what we need :D</p>
+
+  :comment_date: 2007-02-09 06:12:54 -05:00
+  :comment_author: Alexi
+- :comment_content: |
+    <p>Been using 1.6 for a while, and it's pretty nice to be able to play classics on the go, so props to this emulator, its great. I just uped to 1.7, put some new roms, and Contra Hardcore, has many graphical glitches, but I guess it's one of those few that don't work well. Another problem I have is playing Sonic 3 + Sonic and Knuckles, it loads, says something about Opera Ram extension, but I can't get back to the menu using select, and I can't save. Other than it running kinda slow, works well. Also, I was wondering if sound will be implemented in some future release. Thanks again for the great emu.</p>
+
+  :comment_date: 2007-02-09 18:45:59 -05:00
+  :comment_author: TheBlueStylus
+- :comment_content: |
+    <p>I've got this it work great on my DS Simply + M3 Lite, I think DLDI has to be the greatest thing created for the homebrew scene.  I have never got PicrodriveDS to run until this release.  One more thing tho, I don't have sound.  I'm wondering if it just isn't supported, or if I had a bad ROMs.</p>
+
+  :comment_date: 2007-02-09 21:33:38 -05:00
+  :comment_author: ejx982
+- :comment_content: |
+    <p>Hi everyone,
+    First of all THX for this great emu, it works pretty fast, i use a sclite, no problem with it, except that it still doesn't support the sound, hopefully this will do with the next release^^. Good job and thx again.</p>
+
+  :comment_date: 2007-02-10 13:37:51 -05:00
+  :comment_author: hakas
+- :comment_content: |
+    <p>hey ryanfb,
+    wonderful work on picodriveds 0.1.7 runs smooth with all the games i have tested it with.... i have found that most of them appear to run faster then 60 fps.. i think that when you have the sound  working picodriveds will be able to run at full speed with relative ease i have a few sugestions for you i would like to see in a future release of this program and that is some config items down in the touch screen area and the ability to save my games as well as sound of course and if you want maybe some 2 player action over the ds wifi ... :) any time you need some one to alpha/beta test a release let me know i just might be able to help w/ some debuging as well  :)  here is my ds set up passcard3/supercard lite</p>
+
+  :comment_date: 2007-02-12 00:09:26 -05:00
+  :comment_author: sithlord48
+- :comment_content: |
+    <p>SCSD users who are having problems with this, try using SaTa's SCSD DLDI driver which I have mirrored here: <a href="http://www.cryptosystem.org/projects/nds/scsd_moon.dldi" rel="nofollow">scsd_moon.dldi</a></p>
+
+  :comment_date: 2007-02-12 18:39:48 -05:00
+  :comment_author: ryanfb
+- :comment_content: |
+    <p>That scsd_moon.dldi solved problem on SuperCard SD. No need to merge now. Thx for it.</p>
+
+  :comment_date: 2007-02-13 10:27:51 -05:00
+  :comment_author: bitskull
+- :comment_content: |
+    <p>One thing I am not sure about - I cant move crossway e.g. up-left. Only plain moves like up or left are recognized...</p>
+
+  :comment_date: 2007-02-13 10:42:27 -05:00
+  :comment_author: bitskull
+- :comment_content: |
+    <p>The latest version runs fine patched with the scsd_moon.dldi - thank you so much!</p>
+
+  :comment_date: 2007-02-13 16:02:25 -05:00
+  :comment_author: thebawp
+- :comment_content: "<p>Hi</p>\n\n\
+    <p>I have a supercard DS one, and a probl\xC3\x83\xC2\xA8me...\n\
+    When i start the program, i have a error message :</p>\n\n\
+    <p>\"Appended ROM check... ROM NOT FOUND ! \n\
+    Trying to init fat...\"</p>\n\n\
+    <p>But i have games in the same repertory, the game are in .gen and .bin.</p>\n\n\
+    <p>Please help me.</p>\n"
+  :comment_date: 2007-02-14 11:21:54 -05:00
+  :comment_author: Catbert
+- :comment_content: |
+    <p>Here's a video of a demo of picodrive - http://www.youtube.com/watch?v=k-qpKtJ5KvY - hope you don't mind Ryan FB, but I wanted to show it to some pals ^^</p>
+
+  :comment_date: 2007-02-15 04:05:07 -05:00
+  :comment_author: thebawp
+- :comment_content: |
+    <p>I can't wait until PicoDrive has sound and saving :D~</p>
+
+  :comment_date: 2007-02-15 08:01:10 -05:00
+  :comment_author: Alexi
+- :comment_content: |
+    <p>just a question: is the saving that is not implemented save-state saving? Or actual battery saving (ie. in Shining Force, you can save your progress to the cartridge battery). Because save-state saving isn't too great of a loss compared to battery saves!</p>
+
+  :comment_date: 2007-02-18 21:58:57 -05:00
+  :comment_author: Alexi
+- :comment_content: |
+    <p>Hi!
+    I'm trying to install the PicoDriveDS in my NDS but all my trials have failed. I have the G6 Flash cartridge ans every time I try to install tge emulator as it were a game (with the application of the cartridge) both screens turn white.
+    Any idea of what I can do?
+    Thank you</p>
+
+  :comment_date: 2007-02-18 22:02:36 -05:00
+  :comment_author: Deci
+- :comment_content: |
+    <p>Me again :D, with an answer to my own question! I tested out Shining Force and it remembered my battery save (ie. I could "continue my adventure"). Great work my friend, very very very great! Shining Force, wherever I go!</p>
+
+  :comment_date: 2007-02-19 00:05:22 -05:00
+  :comment_author: Alexi
+- :comment_content: |
+    <p>Deci, you need use DLDI Patcher. You can download it in http://chishm.drunkencoders.com/DLDI/ . I don't have any tutorial in english because I'm spanish. :p But I'm sure of you can found it in Google.</p>
+
+  :comment_date: 2007-02-21 03:22:25 -05:00
+  :comment_author: Ragezort
+- :comment_content: |
+    <p>Working great here on a Supercard Lite (micro sd). Keep up the fantastic work on this emulator! I<code>ve just been playing through Golden Axe.. man, really brings back memories.. I used to pump serious cash into the arcade version of that back in the day.
+    For anyone having trouble with the 0.1.7 on the Supercard Lite, do this:
+    1.download the picodrive.ds.gba file
+    2.rename the file to picodrive.ds.nds
+    3.patch the file with brissou</code>s "SuperCardLite (SD Card)" patch using the dlditool patcher from...
+    http://chishm.drunkencoders.com/DLDI/
+    This emu is really amazing so far.. so smooth.. I`m really looing forward to seeing a version with sound.</p>
+
+  :comment_date: 2007-02-21 20:09:38 -05:00
+  :comment_author: dadio
+- :comment_content: |
+    <p>ok, so the emu is great!  I was playing zombies ate my neighbors though and couldn't change weapons.  Could someone post what keys are what?  Thanks!</p>
+
+  :comment_date: 2007-02-26 20:51:43 -05:00
+  :comment_author: Donald
+- :comment_content: |
+    <p>Hi
+    Does picodriveds support sound emulation?
+    I can't hear sound from my game.
+    Is this feature not support yet?</p>
+
+  :comment_date: 2007-02-28 00:30:14 -05:00
+  :comment_author: psboy
+- :comment_content: |
+    <p>After Looking this thread,I think i got the answer.
+    Thanks for develop this emulator.
+    State save is great!!  :)</p>
+
+  :comment_date: 2007-02-28 00:49:27 -05:00
+  :comment_author: psboy
+- :comment_content: |
+    <p>Hi,</p>
+    
+    <p>After months of reading forums and searching someone found a way to 
+    run this emulator on SUPERCARD LITE RUMBLE series. For some reason 
+    each time a tried to run picodrive 0.1.7 I got white screens (even after 
+    patching with dldi sclt.dldi file).</p>
+    
+    <p>So to run it on the SCLR card you need to install DSOrganize 2.5 and
+    via this program run the emulator.</p>
+    
+    <p>I tried "street of  rage 2" and "sonic and knuckles", it works SLOW.
+    I would like to understand if it is because the DSOrganize or the emulator
+    works that way.</p>
+    
+    <p>Thanks in advance,
+    Sallaboy</p>
+
+  :comment_date: 2007-03-01 04:13:41 -05:00
+  :comment_author: sallaboy
+- :comment_content: |
+    <p>Thanks for this! This emulator is shaping up pretty nicely :D
+    we just need a bit more speed and this'll be perfect :) really. i love this. can't wait till i can play all my genesis games at full speed on my DS :D</p>
+    
+    <p>PS.: to make it work on my SuperCard SD (miniSD), i had to download the "picodriveds.ds.gba" file and patch it with the MoonLight driver for SuperCard SD</p>
+
+  :comment_date: 2007-03-05 09:04:48 -05:00
+  :comment_author: Menge
+- :comment_content: |
+    <p>This is working on my M3 Simply, but I can't get any ROMs to show up?  Anyone?</p>
+
+  :comment_date: 2007-03-07 21:39:06 -05:00
+  :comment_author: "666"
+- :comment_content: |
+    <p>I'm using the Supercard Lite (microSD). The picodrive.nds file just gives me a white screen, but after reading some of the posts here I tried renaming the picodrive.ds.gba file to picodrive.nds and it works great. Loading ROM files works, and I didn't even need to patch picodrive with dlditool.</p>
+    
+    <p>For people with Supercards who are having problems, it might be worth making sure you have the latest firmware. (You can get it from http://eng.supercard.cn/download.htm. Just run the .bin file the same way you would a .nds)</p>
+
+  :comment_date: 2007-03-10 21:07:54 -05:00
+  :comment_author: Jonah
+- :comment_content: |
+    <p>To get this to work with an M3 Lite, use the GBA version, without DLDI patching it</p>
+
+  :comment_date: 2007-03-12 17:31:08 -04:00
+  :comment_author: Hoodlum
+- :comment_content: |
+    <p>Does anyone knows how to make it works on G6 Lite?</p>
+
+  :comment_date: 2007-03-13 15:55:06 -04:00
+  :comment_author: milh0use
+- :comment_content: |
+    <p>Hi,</p>
+    
+    <p>Thanks for this release. Took me a while to get it to work, but I finally did. However, it's really slow - unplayably slow for me. That's not a complaint, if its just because its a work in progress then fine, but if there's a way of speeding it up, let me know. Do I need to be merging thingies with wotsits?</p>
+    
+    <p>Damian</p>
+
+  :comment_date: 2007-03-17 12:53:02 -04:00
+  :comment_author: Damian
+- :comment_content: |
+    <p>Oh yeah, and how do you save gamestate? I can't see any menu anywhere.</p>
+
+  :comment_date: 2007-03-17 12:55:11 -04:00
+  :comment_author: Damian
+- :comment_content: |
+    <p>I managed to get PicoDrive 1.7 to work with zip files.  Nothing fancy, only one file can be in a zip, but you can stored at least twice as many roms in the same space.  Source code is included.
+    I also have a simple program to extract a zip file to your flash card.  Not very fast because flash is slow, but it has a sample code to show progress and will unzip all files with a zip to the root.
+    http://s22.quicksharing.com/v/1101070/NDSUnZip10.zip.html
+    Hope to see more homebrew and loaders use zip.
+    I used the zip source code from here. 
+    http://www.wischik.com/lu/programmer/zip_utils.html
+    You need to patch the roms with the correct DLDI driver for you card.</p>
+
+  :comment_date: 2007-03-21 21:47:18 -04:00
+  :comment_author: BitJunky
+- :comment_content: |
+    <p>Sorry, I did not know the link would be hidden under my name.
+    http://s12.quicksharing.com/v/8001200/picodriveds_0.1.7z.zip.html</p>
+
+  :comment_date: 2007-03-21 21:50:55 -04:00
+  :comment_author: BitJunky
+- :comment_content: |
+    <p>Emulator runs great, very nice work! However, it appears to freeze when  I try to save? Im on an EZ Flash IV mini sd, does anyone know why this is happening? 
+    Many Thanks!</p>
+
+  :comment_date: 2007-03-23 10:25:27 -04:00
+  :comment_author: Yo-Yo Ninja Boy
+- :comment_content: |
+    <p>[...] Emulators/Engines which will run Scumm games (PC classics such as Monkey Island or Sam and Max), Amstrad CPC games or Megadrive games on your DS. [...]</p>
+
+  :comment_date: 2007-03-27 07:03:55 -04:00
+  :comment_author: A How to Guide for Nintendo DS Homebrew &laquo; My Life with Nintendo
+- :comment_content: |
+    <p>It runs slow on SUPERCARD LITE RUMBLE when I boot it from
+    DSOrganize2.5. Does anybody have an idea when will be the next version
+    or when the speed of the emulator will be fixed ?</p>
+
+  :comment_date: 2007-03-29 06:48:11 -04:00
+  :comment_author: sallaboy
+- :comment_content: |
+    <p>Hi, just tried your emulator on my DS, i have only had it a week, so after a lot of umming and arring, I went out and bought max media player. No regrets so far! Just have to say the emulator ROCKS! It loaded up Gods by the Bitmap Brothers just fine. I just hope you keep up the great work! Thanks!</p>
+
+  :comment_date: 2007-03-29 12:47:05 -04:00
+  :comment_author: IDOL
+- :comment_content: |
+    <p>i hope you can fix sounds, and get the roms working better in general soon :D!</p>
+    
+    <p>i jut got today and words are kinda F*ed which is lame</p>
+    
+    <p>id help if i knew how to.</p>
+
+  :comment_date: 2007-04-07 19:41:14 -04:00
+  :comment_author: seangilmore
+- :comment_content: |
+    <p>happy easter!</p>
+
+  :comment_date: 2007-04-09 01:14:58 -04:00
+  :comment_author: alex
+- :comment_content: |
+    <p>I waitting for PicoDriveDS 0.1.8.
+    Long long time~~~~~~~</p>
+
+  :comment_date: 2007-04-09 10:15:54 -04:00
+  :comment_author: kuibobo
+- :comment_content: |
+    <p>kuibobo, this is an emulator, not a pie cooking in the oven</p>
+    
+    <p>obviously it's going to take a while for the next version.</p>
+
+  :comment_date: 2007-04-10 05:11:23 -04:00
+  :comment_author: alex
+- :comment_content: |
+    <p>Works great with my R4 after patching for DLDI.</p>
+    
+    <p>Thanks!</p>
+
+  :comment_date: 2007-04-11 04:56:37 -04:00
+  :comment_author: Rob
+- :comment_content: |
+    <p>This is the greatest thing ever!  I just want to let you know how much what I'm sure is hard work and time is appreciated.  Its so great to be able to take these old favorites around in your pocket.
+    I recommend "General Chaos" for anyone who's looking for a great game they might have missed the first time around. 
+    Brings back so many great memories :)</p>
+
+  :comment_date: 2007-04-11 21:29:50 -04:00
+  :comment_author: CMR
+- :comment_content: "<p>Wow, great work, every game I tried works well and near to full speed, it only needs sound to be perfect.\n\
+    for the next version,\xC3\x82\xC2\xBF could you add 6 button pad compatibility?, that would be great for one of my favourite games, etrernal champion.</p>\n"
+  :comment_date: 2007-04-16 15:08:14 -04:00
+  :comment_author: Godofhellfire
+- :comment_content: |
+    <p>Amazing speed improvements! Sonic 1 runs like gold on my MMD! Great work!</p>
+
+  :comment_date: 2007-04-24 21:27:09 -04:00
+  :comment_author: Lostgame
+- :comment_content: |
+    <p>If anyone owns a Supercard DS ONE card and has gotten PicodriveDS to work could you please offer up a solution. I've tried everyway possible and im sure im making this more difficult than it should. Thanks Alot.</p>
+
+  :comment_date: 2007-04-25 19:40:09 -04:00
+  :comment_author: freakydean
+- :comment_content: |
+    <p>How do I get this to work with my R4? I have the .nds file and roms in the same folder but it cannot find the roms.</p>
+
+  :comment_date: 2007-04-26 10:49:19 -04:00
+  :comment_author: J
+- :comment_content: |
+    <p>Wow, very good work! This rocks! There is only needed a little bit more speed and sound and it would be perfect. Thanks for this.</p>
+
+  :comment_date: 2007-05-01 07:41:54 -04:00
+  :comment_author: Robin
+- :comment_content: |
+    <p>great job on this emulator almost every file i have tried has worked except a few "Wonderboy in Monsterland or Wonderboy 5 MW3" "the Adventures of Batman and Robin" "Arch Rivals" to name a few. Is there anyone that has gotten any of these file to run?? i really would like to run wonderboy 5. Let me know. Thanks</p>
+
+  :comment_date: 2007-05-01 11:54:25 -04:00
+  :comment_author: freakydean
+- :comment_content: |
+    <p>OK i got "Batman and Robin" to run but still no luck with "Wonderboy in Monsterland" anyone have any suggestions? I've tried about 7 different files. Also the only other file not running that i tried was "Mega Man the Wily Wars" Once again RYANFB fantastic work. Kudos to your skills! I can only imagine the results for future releases. You are really close to perfection.</p>
+
+  :comment_date: 2007-05-02 11:26:09 -04:00
+  :comment_author: freakydean
+- :comment_content: |
+    <p>I am using Supercard SD and can't get this to work, with or without patching the files with scsd.dldi.</p>
+    
+    <p>All I get is a double white screen with the .ds file, whereas with the .gba file my Supercard seems to load more than the filesize itself, then freezes!</p>
+    
+    <p>Could someone please provide a completely n00b-friendly step-by-step guide, in layman's terms, explaining what to do? Many thanks in advance!</p>
+
+  :comment_date: 2007-05-08 15:21:19 -04:00
+  :comment_author: James
+- :comment_content: |
+    <p>OK WILL SOMEONE PLEASE EXPLAIN TO ME FROM STEP 1 HOW TO GET THIS MOFO WORKING? I'm not completely computer illiterate but I am a stoner. will someone please explain?</p>
+
+  :comment_date: 2007-05-14 23:47:26 -04:00
+  :comment_author: IvoryFountain
+- :comment_content: |
+    <p>Yeh great job on the emu!</p>
+    
+    <p>I cant get it to work with my M3 compact flash setup. I get the error about loading and FAT. I have tried patching with the DLDI and renaming files etc, basically everything i can think of. Still im getting a M3 simply tomorrow so will try it all out on that!
+    Im dying to play Streets of Rage 2 and castle of illusion again!
+    Just to confirm this version has no audio enabled.. is that correct?</p>
+
+  :comment_date: 2007-05-17 00:25:53 -04:00
+  :comment_author: addyb
+- :comment_content: |
+    <p>yes it has no sound.... yet :D</p>
+
+  :comment_date: 2007-05-18 15:24:18 -04:00
+  :comment_author: hersuri
+- :comment_content: |
+    <p>Hi, I understand how filtering the image takes CPU cycles - but what about the GBA processor? Is there any way you can coax it into processing the image? That's all it would have to do. Or have it do some other work.</p>
+    
+    <p>I'm pretty confident that it's possible to get a near full speed MD emu on the DS with some form of filtering. The SNES emus run full speed, and they have to deal with more graphics processing.</p>
+
+  :comment_date: 2007-05-20 02:16:59 -04:00
+  :comment_author: Kittie Rose
+- :comment_content: "<p>I'm using a M3DS Simply with a Micro SD card. I've tried everything mentioned above, but I get the following:</p>\n\n\
+    <p>Trying to init FAT\xC3\xA2\xE2\x82\xAC\xC2\xA6\n\
+    FAT init failed.\n\
+    Appended ROM check\xC3\xA2\xE2\x82\xAC\xC2\xA6ROM NOT FOUND!</p>\n\n\
+    <p>No way to load ROMs found.</p>\n\n\n\n\n\n\
+    <p>I've tried merging with a rom, patching with dldi (multiple different dldi types), moving the .nds file to different directories and nothing seems to be working. I'm obviously missing something since others have gotten it working on the same type of card.</p>\n\n\
+    <p>Could someone using a M3 DS Simply be so kind and give step-by-step instructions on how they got it working?</p>\n"
+  :comment_date: 2007-06-11 22:35:13 -04:00
+  :comment_author: Oz
+- :comment_content: |
+    <p>stop working on compatibility and start woring on the sound. it makes up a large percentage of megadrive experience</p>
+
+  :comment_date: 2007-05-27 03:38:49 -04:00
+  :comment_author: fiddy cent
+- :comment_content: |
+    <p>hows 0.1.8 coming along? :D</p>
+
+  :comment_date: 2007-05-28 18:42:57 -04:00
+  :comment_author: hersuri
+- :comment_content: |
+    <p>It's been little more than four months since 0.1.8, Anynews on 0.1.8 :)?</p>
+
+  :comment_date: 2007-06-05 23:35:54 -04:00
+  :comment_author: jack-o
+- :comment_content: |
+    <p>I have an R4 with the Micro SD card, basically i'm not very good with computers but i've been reading up everywhere and etc etc.</p>
+    
+    <p>I've got the picodrive file, dldi file. But i've seriously no idea what to do with the patching, some even said there is no need to patch.</p>
+    
+    <p>Could some one just please help me out and tell me step by step what i must do. which version or whatever is of importance of the dldi thing.</p>
+    
+    <p>I've tried patching it, using the command thing to patch but i seriously just cant patch it and the picodrive also doesn't work on my DSlite.</p>
+    
+    <p>Please help me out here as i am a real hardcore Genesis and Sega fan and to replay those games again would mean a lot.</p>
+    
+    <p>I thank you in advance for your time and trouble.</p>
+
+  :comment_date: 2007-06-09 23:17:04 -04:00
+  :comment_author: AC
+- :comment_content: |
+    <p>OZ I have got the same problems. And I also use the R4 with micro SD card. Is it me or are those different DLDI patching files making things more confusing??</p>
+
+  :comment_date: 2007-06-12 01:34:41 -04:00
+  :comment_author: AC
+- :comment_content: |
+    <p>i dont have any problems with the  DLDI patching and it works fine on my M3 Simply</p>
+
+  :comment_date: 2007-06-12 03:44:44 -04:00
+  :comment_author: jack-o
+- :comment_content: |
+    <p>The DLDI patching isn't too bad, I'm using the GUI interface program for it, which helps.</p>
+    
+    <p>jack-o, could you describe what you did to get it working? Such as where you put the file on the card, what file(s) needs to be on the card, did you patch first then merge, merge then patch, not merge and only patch, etc. Details like that would be extremely helpful.</p>
+
+  :comment_date: 2007-06-12 20:09:05 -04:00
+  :comment_author: Oz
+- :comment_content: |
+    <p>Does this work with .bin and .gen roms?</p>
+
+  :comment_date: 2007-06-12 21:52:52 -04:00
+  :comment_author: Myuusmeow
+- :comment_content: |
+    <p>How about The version 0.1.8 ?</p>
+
+  :comment_date: 2007-06-13 08:26:34 -04:00
+  :comment_author: Silas
+- :comment_content: |
+    <p>a little problem here</p>
+    
+    <p>Beyond oasis with .17 ver of PicoDriveDS</p>
+    
+    <p>when u first see the King and Princess get the Water Shrine key then just suddenly stuck there.</p>
+    
+    <p>is that because i don't have ram?(i use supercard lite rumble).</p>
+    
+    <p>thanks &amp; if u need the game and save file just send a email ask me for it.</p>
+
+  :comment_date: 2007-06-13 10:37:40 -04:00
+  :comment_author: pdpdp
+- :comment_content: |
+    <p>add a little bit 
+    both Beyond oasis(English version) and The story of Thor(Jp version) all have problem when the prince meet the king and get the key.</p>
+
+  :comment_date: 2007-06-13 11:04:32 -04:00
+  :comment_author: pdpdp
+- :comment_content: |
+    <p>For anyone in a similar situation as me with an M3 Simply that can't get it working, see: http://forums.afterdawn.com/thread_view.cfm/516944#3129574</p>
+    
+    <p>I followed the steps there and it works perfect now. :) The problem seems to be that I was using the wrong dldi file to patch it. Instead of using the patch for "R4(DS) - Revolution for DS M3 Simply compatible" (which I didn't even see in that list) I was using the patch for "M3 Adapter (SD Card)" (since I use a Micro SD as the storage device I thought this was correct).</p>
+    
+    <p>Direct link for DS M3 Simply dldi file:
+    http://chishm.drunkencoders.com/DLDI/downloads/r4tf.dldi</p>
+    
+    <p>Can't wait for future releases!</p>
+
+  :comment_date: 2007-06-13 15:16:42 -04:00
+  :comment_author: Oz
+- :comment_content: |
+    <p>ARGH! why cant i make the damn COPY command work???</p>
+    
+    <p>i have tried the following:}</p>
+    
+    <p>"copy /b picodriveds.nds+ultimate mortal kombat 3.bin pico-mk.nds"</p>
+    
+    <p>and alls i get is a damn syntax error?!?!</p>
+    
+    <p>someone please help me!</p>
+
+  :comment_date: 2007-06-16 09:18:39 -04:00
+  :comment_author: Paul
+- :comment_content: |
+    <p>Thats not how it works Paul all you need to do is DLDI patch the PicoDriveDS.nds and stick it and your games in the ROOT directory on your flashcart and the launch PicoDriveDS and select a game.</p>
+
+  :comment_date: 2007-06-17 03:56:44 -04:00
+  :comment_author: David
+- :comment_content: |
+    <p>There's now a README in the project directory which should help explain things better for newcomers.</p>
+    
+    <p>I haven't had much time to work on PicoDriveDS lately between grad school and work. I'm also starting another job soon, so I'm not sure how much time I'll have to work on it over the summer either.</p>
+
+  :comment_date: 2007-06-17 12:36:15 -04:00
+  :comment_author: ryanfb
+- :comment_content: |
+    <p>hurry up with v. 1.8 already!!! it better come out within the next week or so lol im anxious... hopefully it will have sound im looking forward to that</p>
+
+  :comment_date: 2007-06-17 14:54:58 -04:00
+  :comment_author: Jack
+- :comment_content: "<p>Paul, try using _ for spaces in the rom name. I.e.: \xC3\xA2\xE2\x82\xAC\xC5\x93copy /b picodriveds.nds+ultimate_mortal_kombat_3.bin pico-mk.nds\xC3\xA2\xE2\x82\xAC\xC2\x9D</p>\n\n\
+    <p>In windows it'll interpret a space as a break for command input (or something like that). You shouldn't need to actually rename the rom, just use _ in the command line.</p>\n\n\
+    <p>Ryanfb, awesome! The readme will help a lot! :)</p>\n"
+  :comment_date: 2007-06-17 15:25:17 -04:00
+  :comment_author: Oz
+- :comment_content: |
+    <p>thank you very much for this new version of your wonderful emulator. It's working great on ez4 btw.</p>
+    
+    <p>I hate to repeat what many others have requested, but sound would make the experience so much better!</p>
+    
+    <p>I hope you decide to work on it, as someone else said sound is more important than improved game compatability.</p>
+
+  :comment_date: 2007-06-23 00:55:11 -04:00
+  :comment_author: OSW
+- :comment_content: |
+    <p>Awesome! This emulator made flashing my DS and buying a Supercard worth while.</p>
+
+  :comment_date: 2007-06-25 05:31:31 -04:00
+  :comment_author: JushinLiger
+- :comment_content: |
+    <p>Paul, you could also just try typing "Ulti" and hitting Tab, which should autocomplete the entire thing, adding the necessary quotation marks.</p>
+
+  :comment_date: 2007-06-25 15:31:29 -04:00
+  :comment_author: Danny
+- :comment_content: "frosty Says:\n\n\
+    <p>February 9th, 2007 at 4:32 am</p>\n\n\
+    <p>I\xC3\xA2\xE2\x82\xAC\xE2\x84\xA2m having problems getting PicoDriveDS working on my M3 Simply - perhaps someone could help?</p>\n\n\
+    <p>I\xC3\xA2\xE2\x82\xAC\xE2\x84\xA2ve copied the .nds file and a .bin rom over to my DS, but when I run picodrive, all I get on the bottom screen is:</p>\n\n\
+    <pre><code>      Load File\n\
+    </code></pre>\n\n\
+    <p>-&gt;</p>\n\n\
+    <p>And then I don\xC3\xA2\xE2\x82\xAC\xE2\x84\xA2t seem to be able to do anything at all.</p>\n\n\
+    <p>Any ideas?</p>\n\n\
+    <p>can someone please answer this? I'm having the same problem.</p>\n"
+  :comment_date: 2007-06-27 23:20:09 -04:00
+  :comment_author: Techno
+- :comment_content: |
+    <p>ryanfb, PicodriveDS is an incredible emulator, Sometime there is a possibility to it reach full speed with sound? Ah,May Donations acelerate the project :) ?</p>
+
+  :comment_date: 2007-06-28 09:23:59 -04:00
+  :comment_author: Silas
+- :comment_content: "<p>Hi ryanfb, I hope there will be a 1.8, for ME it\xC3\x82\xC2\xB4s not necessary to improve the speed this time, the only thing wich is needed for the emulator (I think) is sound! Games without sound, it\xC3\x82\xC2\xB4s like chocolate cake without cocolate! :/ But Anyway, it\xC3\x82\xC2\xB4s a good emulator, please, keep up the good work, man!</p>\n\n\
+    <p>Greetz,\n\
+    Tobibrocki</p>\n\n\
+    <p>(Sry for the bad english, I come from germany, so, simply ignore some grammatical stuff! ^_^)</p>\n"
+  :comment_date: 2007-06-30 12:04:38 -04:00
+  :comment_author: Tobibrocki
+- :comment_content: |
+    <p>BitJunky thanks for the link with the zipped rom support! It works great.</p>
+    
+    <p>And thanks for this great homebrew emu, ryanfb. I don't want to sound like these other whiners who making unwarranted demands from you, but if and whenever you get around to working on this great program again, it would be really nice to have zipped rom support as standard.  Keep up the good work.</p>
+
+  :comment_date: 2007-07-01 09:58:30 -04:00
+  :comment_author: Shaolin Samurai
+- :comment_content: |
+    <p>does anyone know how to get it to work on max media dock? i have roms and the dldi patch along with the win32 GUI patcher and it still doesn't work! and they are all in the same folder, yet it would still say:</p>
+    
+    <p>trying to init FAT...
+    FAT init failed.
+    Appended ROM check... ROM NOT FOUND!</p>
+    
+    <p>no way to load ROMs found.</p>
+    
+    <p>please tell me what i can do to get it to work!</p>
+
+  :comment_date: 2007-07-05 21:40:57 -04:00
+  :comment_author: gamelordabd
+- :comment_content: |
+    <p>what files does it load? i have .bin but... o yeah i forgot to DLDI patch for GnM!</p>
+
+  :comment_date: 2007-07-09 08:38:24 -04:00
+  :comment_author: flamadidde
+- :comment_content: |
+    <p>i check everyday to see if there has  been a new release :)</p>
+
+  :comment_date: 2007-07-09 09:55:17 -04:00
+  :comment_author: jack-o
+- :comment_content: |
+    <p>Mike: Read my comment above for why there haven't been any new releases for a while. Between grad school and two jobs, I spend my free time relaxing.</p>
+    
+    <p>synonymous: Good, feel free to use it and bug the author endlessly for full speed, sound, weekly updates, and 100% compatibility instead of me.</p>
+
+  :comment_date: 2007-07-15 17:29:32 -04:00
+  :comment_author: ryanfb
+- :comment_content: |
+    <p>Hi! I have the opera browser with the RAM expansion, how do i know if it is using it? or maybe it is automatic?  I love the mega drive and this emulator Pwns, keep up the good work!</p>
+
+  :comment_date: 2007-07-15 22:11:33 -04:00
+  :comment_author: Adrian
+- :comment_content: |
+    <p>Did yuou quit on hombrew havent saw a release in awhile man ..</p>
+
+  :comment_date: 2007-07-10 13:35:00 -04:00
+  :comment_author: Mike
+- :comment_content: |
+    <p>the jEnesis port for the DS is better IMO, and is actually being worked on, I really don't think the coder of this one wants to do anything more with it.</p>
+
+  :comment_date: 2007-07-14 20:07:38 -04:00
+  :comment_author: synonymous
+- :comment_content: "<p>Ryanfb, don\xC3\x82\xC2\xB4t care about this ones wich don\xC3\x82\xC2\xB4t respect your work. Building emulators is only for \"gods\", and you are one of them! Rise up Boy!</p>\n"
+  :comment_date: 2007-07-16 10:42:26 -04:00
+  :comment_author: Silas
+- :comment_content: |
+    <p>Yeah, it works on R4. Great job, can we make donations?? :D</p>
+    
+    <p>Thanks from Italy.</p>
+
+  :comment_date: 2007-07-18 10:36:00 -04:00
+  :comment_author: Alex Kidd
+- :comment_content: |
+    <p>oh ryan sorry thought you quit.anyway your emulator still pwns  jenesis</p>
+
+  :comment_date: 2007-07-19 18:29:29 -04:00
+  :comment_author: Mike
+- :comment_content: |
+    <p>Hi, I have a question I tried this emulator on a R4DS card but I have no sound what can I do to solve this problem pleas mail me Simon-vdb@hotmail.com or add me to your msn</p>
+
+  :comment_date: 2007-07-27 07:26:14 -04:00
+  :comment_author: Simon
+- :comment_content: |
+    <p>i just tried PicoDriveDS v0.1.7 and it works, but no sounds and some games its slow (lags a bit) maybe i'm doing something wrong if you could help. i'm not even sure if this page if for people to ask for help or just leave a comment. sorry, if its not. i also look at your gba thing. there is a gba emulator for the DS that i use. its not great in fact i cant get it to work right at all. but if some one could make a user friendly gba emulator for the DS that would be great. that was more like a comment.</p>
+
+  :comment_date: 2007-07-28 01:34:47 -04:00
+  :comment_author: littlefatboi
+- :comment_content: |
+    <p>I dunno which version of picodrive i have, probably this one coz i got my R4 card about 1 month or so ago and this works perfectly on it.</p>
+    
+    <p>only problem is the lack of being able to play sonic 3 and knuckles on it :( i read upwards that someone got a message saying that they needed to use the opera ram expansion pack or something but i never get that message...</p>
+    
+    <p>i have a ram expansion pack, so maybe i'll download this version and stck the ram in then test it and see if it works? anyone got any ideas if it will?</p>
+
+  :comment_date: 2007-08-12 15:54:19 -04:00
+  :comment_author: Mikey
+- :comment_content: |
+    <p>Thanks for this awesome emulator, I'm usually pretty busy myself so I can understand your lack of time to work on it.  I look forward to future releases, whenever they may come ;).</p>
+
+  :comment_date: 2007-08-15 11:58:45 -04:00
+  :comment_author: Richard
+- :comment_content: |
+    <p>Ok, took a look at jEnesis. Doesn't look...well...terrible...but doesn't hold a candle to your work ryan. If you ever have a chance to update, I'll be in line to get a new version, but massive Kudos to you for an awesome job so far.</p>
+
+  :comment_date: 2007-09-13 05:39:37 -04:00
+  :comment_author: Jonathan
+- :comment_content: "<p>Boy, I\xC3\x82\xC2\xB4m getting worried about you! 2007 is pasting and you are not  giving live signal! Say Something! \"The DS community needs your skills!\"</p>\n"
+  :comment_date: 2007-10-21 14:42:16 -04:00
+  :comment_author: Silas
+- :comment_content: |
+    <p>Though disappointed by the lack of sound, I find this to be an effective emulator, though it does have some slowdown but thats the only major issue I can find.</p>
+
+  :comment_date: 2007-10-23 23:00:13 -04:00
+  :comment_author: Flygon
+- :comment_content: |
+    <p>Does the NDS have sound-specific chips that can be used to handle or aid with the sound emulation?  Could these chips be subverted to handling other jobs?</p>
+    
+    <p>Also, I think everyone here would agree that it's better to have a perfect speed emulator without sound than a really slow emulator with sound.  Same with scaling.</p>
+
+  :comment_date: 2007-12-13 14:43:20 -05:00
+  :comment_author: Jonathan
+- :comment_content: |
+    <p>Very impressed, am a little disappointed by no sound, but beggars can't be choosers. M gonna go blow shit up in desert strike :)</p>
+
+  :comment_date: 2008-01-28 10:40:46 -05:00
+  :comment_author: Sam
+- :comment_content: |
+    <p>You need to focus on sound soon or else who cares about this even if you can play games. Without sound in the games the experience is totally lost.</p>
+
+  :comment_date: 2008-02-04 21:55:34 -05:00
+  :comment_author: isoptera4
+- :comment_content: |
+    <p>where is PicodriveDS 1.8??? i NEED SOUND!!! XD</p>
+
+  :comment_date: 2008-02-11 13:17:26 -05:00
+  :comment_author: Mikey
+- :comment_content: |
+    <p>Nice emulator!</p>
+    
+    <p>I have to wonder though, is it supposed to be "frameskippy" because it seems to be a bit choppy. Maybe it's just me. Does anybody else experience this?</p>
+
+  :comment_date: 2008-02-13 17:41:57 -05:00
+  :comment_author: Michael
+- :comment_content: |
+    <p>Hi! Great work!
+    Thanks to you I just played Forgotten Worlds, Ghouls'N Ghosts and Phantasy Star IV on my DS!
+    Keep up the fighting spirit!</p>
+    
+    <p>---Imogia from France---</p>
+
+  :comment_date: 2008-03-07 13:28:43 -05:00
+  :comment_author: Imogia
+- :comment_content: |
+    <p>Just played some Shadowrun. Bummer that there's no sound, but using the left trigger for reading actually works pretty well. Thanks for the nifty program, and good luck with future releases.</p>
+    
+    <p>Oh... I just noticed the dates on all the comments and newsposts... looks like this one's good and dead. Oh well :(</p>
+
+  :comment_date: 2008-03-09 20:31:20 -04:00
+  :comment_author: Joe
+- :comment_content: |
+    <p>nice. iv used this for a while but i am dying for the sound to work on 1.8! don't work on graphics or frames work on getting sound up and running dammit! XD</p>
+
+  :comment_date: 2008-03-30 15:05:53 -04:00
+  :comment_author: alex
+- :comment_content: |
+    <p>Thx for this good emulator,it's like a dream to play these games on DS! I will appreciate very much sound in next version instead of compatibility! Good look with your work and thx you again! :D</p>
+
+  :comment_date: 2008-04-01 10:20:31 -04:00
+  :comment_author: lordvorax
 title: PicoDriveDS 0.1.7
 wordpress_url: http://www.cryptosystem.org/archives/2007/02/picodriveds-017/
 ---

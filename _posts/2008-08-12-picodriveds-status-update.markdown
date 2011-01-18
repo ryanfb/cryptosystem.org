@@ -2,6 +2,8 @@
 permalink: archives/2008/08/picodriveds-status-update
 wordpress_id: 35
 layout: post
+comments: []
+
 title: PicoDriveDS Status Update
 wordpress_url: http://www.cryptosystem.org/?p=35
 ---

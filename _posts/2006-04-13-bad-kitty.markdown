@@ -2,6 +2,67 @@
 permalink: archives/2006/04/bad-kitty
 wordpress_id: 22
 layout: post
+comments: 
+- :comment_content: |-
+    You should be testing the still buggy php version. 
+    
+    You've also got the problem that I'm going to have nigh on limitless pictures of kittens and I'm only going to show you 3 of them at a time... and you can only get it wrong 3 times from a single ip...
+    
+    Nice to have someone keeping you on your toes though =)
+  :comment_date: 2006-04-14 00:13:01 -04:00
+  :comment_author: Oli
+- :comment_content: |-
+    Just spend a little more time reading around this and yeah it looks quite sound.
+    
+    But please try it out on images that have been rotated and zoomed and see if it's showing the same level of detection. (An emaill response would be preferable)
+  :comment_date: 2006-04-14 00:38:16 -04:00
+  :comment_author: Oli
+- :comment_content: |
+    I've tried my method against your new PHP version with rotation, and
+    it still works. While a lower percentage of keypoints are matched, it
+    is still highly accurate for matching images which have been rotated
+    or zoomed (i.e. there are not false positives).
+    
+    Here's another visual example against a screenshot of the new version:
+    
+    <img src="http://cryptosystem.org/images/matchcomposite.png" alt="PCA-SIFT matches against KittenAuth" />
+    
+
+  :comment_date: 2006-04-14 13:26:43 -04:00
+  :comment_author: ryanfb
+- :comment_content: |-
+    Ryan,
+    
+    I've updated my own version, if you're interested :)
+    http://www.nextbbs.com/do%5Ftopic%5Fid%5F573%5Fpost%5F3934
+    
+    -C.
+  :comment_date: 2006-04-15 15:33:44 -04:00
+  :comment_author: Chris FR
+- :comment_content: Sorry I don't know what happened to the underscores in my link :(
+  :comment_date: 2006-04-15 15:34:33 -04:00
+  :comment_author: Chris FR
+- :comment_content: No problem, I've changed it with escaped underscores, as the Markdown syntax interprets underscores as italics.
+  :comment_date: 2006-04-15 17:12:53 -04:00
+  :comment_author: ryanfb
+- :comment_content: |-
+    I'm currently assembling people for getting a good solid version of KittenAuth v2 out the door.
+    
+    I've already spoken to Chris and he's optimistic, but I would love to have you onboard too, Ryan, as a consultory member (and programmer -- if you want) so you can help make it as inconvenient as possible for bots to automate the process of getting around the kittenauth system.
+    
+    Of course its never going to be 100% but the image processing you've done does have a certain cpu overhead doesnt it? You're only using 3 pictures to compare with and that's taking roughly 2s per picture. What happens when we scale that up to 100 or 1000 possible pictures and a 4x3 grid? I'm assuming (and hoping) its going to take much longer and that it wont be viable for the average spammer to donate so much processing power to try and break through the protection.
+    
+    Anyway, I've got the incomplete v2 demo up at http://www.kittenauth.com running under drupal so I'd really lvoe you input and hopefully your expertise as we develop the system.
+  :comment_date: 2006-04-30 16:32:59 -04:00
+  :comment_author: Oli
+- :comment_content: |-
+    Actually, when the program was running it was matching against all 17 cat pictures, not just those 3. That picture is just an illustrative example to show that fewer keypoints are matched compared to the earlier version.
+    
+    The current algorithm for finding keypoint matches is pretty simple and slow, but it's not too hard to improve it. Basically for each input image, it generates keypoints then for each input keypoint iterates through all the known keypoints and uses a distance metric to find matches. Keypoints are just vectors in 128-space though, so optimal algorithms for finding matches within a certain distance are already a heavily researched area (look at kd-trees or priority R-trees). Using another data structure and algorithm, as well as keeping the known keys in memory, would vastly improve performance. It could probably be modified to use something like the [ANN](http://www.cs.umd.edu/~mount/ANN/) library pretty easily. Also, due to the nature of the problem, it parallelizes pretty well.
+    
+    I haven't been able to check out v2 yet as the images don't load for me, so I can't comment on that.
+  :comment_date: 2006-05-04 23:05:33 -04:00
+  :comment_author: ryanfb
 title: Bad Kitty
 wordpress_url: http://www.cryptosystem.org/archives/2006/04/bad-kitty/
 ---

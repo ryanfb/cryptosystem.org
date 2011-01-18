@@ -2,6 +2,459 @@
 permalink: archives/2006/08/picodriveds-015
 wordpress_id: 29
 layout: post
+comments: 
+- :comment_content: |
+    <p>Good work with this new version of the picodriveDS, the speed is increased! :)
+    But on the M3 mini SD it doesn't work again... :(
+    If you want I can help you to test it on a M3 Mini SD! ;)</p>
+
+  :comment_date: 2006-08-23 11:32:55 -04:00
+  :comment_author: mmmax
+- :comment_content: |
+    <p>Brilliant work !
+    I just tested it with Soleil on my G6 Lite and it works great.
+    Keep it up !</p>
+
+  :comment_date: 2006-08-23 12:03:40 -04:00
+  :comment_author: Toshiba-3
+- :comment_content: |
+    <p>I need help on working it, im using a Max media dock. Can it work on it nad how? what file types are suported?</p>
+
+  :comment_date: 2006-08-23 13:22:03 -04:00
+  :comment_author: Badam
+- :comment_content: |
+    <p>@ RyanFB (This is your emulator right?)</p>
+    
+    <p>Nice update. The speed increase is really nice. Many thanks.</p>
+    
+    <p>Oh and thanks for fixing the M3 reset code. I think that had something to do with the glitched line in the menu in picodrive 0.1.4. I'm not sure what the "M3SD Mini insertion detection code" is but if you can inform me on what it does I can gladly test it for you (:</p>
+    
+    <p>@mmmax</p>
+    
+    <p>Did you try appending the rom?</p>
+
+  :comment_date: 2006-08-23 13:40:16 -04:00
+  :comment_author: Havoc_012
+- :comment_content: |
+    <p>This is really promising :) Most games are very playable and I can't wait for sound support. I'm using this on a GBAMP and it works like a charm.</p>
+
+  :comment_date: 2006-08-23 15:58:14 -04:00
+  :comment_author: Thomas
+- :comment_content: |
+    <p>Great work, it works great. But for some reason, some rom images get all sorts of glichy data when it tries to open a rom.</p>
+
+  :comment_date: 2006-08-23 22:47:14 -04:00
+  :comment_author: Zector
+- :comment_content: |
+    <p>where do I put the roms and the .nds?</p>
+
+  :comment_date: 2006-08-23 23:31:49 -04:00
+  :comment_author: Badam
+- :comment_content: |
+    <p>Yeah! At last a Genesis emulator!! I'm using Passcard and a M3 Mini SD and it works OK.</p>
+    
+    <p>Waiting for the sound emulation.</p>
+
+  :comment_date: 2006-08-24 13:31:02 -04:00
+  :comment_author: "Jos\xC3\x83\xC2\xA9 Manuel Nieto (JMN)"
+- :comment_content: |
+    <p>I think you</p>
+    
+    <ol>
+    <li>Put all roms and the nds file in the root of the ds</li>
+    </ol>
+    
+    <p>or</p>
+    
+    <ol>
+    <li>Put the roms in a folder called Roms</li>
+    </ol>
+
+  :comment_date: 2006-08-24 15:39:11 -04:00
+  :comment_author: Bonic
+- :comment_content: |
+    <p>yep! very good work!</p>
+    
+    <p>Notice that the save state function is great! I have tested it on several game on supercard with compact flash and it works as well a great emulator!</p>
+    
+    <p>Thank you Ryan!</p>
+
+  :comment_date: 2006-08-24 16:01:18 -04:00
+  :comment_author: toiletking
+- :comment_content: |
+    <p>Its not working I put the roms &amp; .nds in the root of my card &amp; it doesnt work. then I put the roms in a folder called Roms, that didnt work eather. Both times I got only a screen that says Load File with a arrow, when I press button A the arrow goes away and nothing happens after that. Help?</p>
+
+  :comment_date: 2006-08-24 18:33:45 -04:00
+  :comment_author: Badam
+- :comment_content: |
+    <p>Are you using a Max media dock?</p>
+
+  :comment_date: 2006-08-24 20:17:31 -04:00
+  :comment_author: Bonic
+- :comment_content: |
+    <p>How do you even get this to work on MMD? I having problems with it too.</p>
+
+  :comment_date: 2006-08-24 20:37:28 -04:00
+  :comment_author: Bonic
+- :comment_content: |
+    <p>Thank you for your great work!!
+    I really looking forward to sound support.</p>
+
+  :comment_date: 2006-08-25 01:00:41 -04:00
+  :comment_author: Joseph
+- :comment_content: |
+    <p>Keep up the great work Ryan.</p>
+    
+    <p>This release has made a significant increase in the speed most of my games run at. Pretty much full speed.</p>
+    
+    <p>Are we likely to have sound in future releases? Or is it pretty much impossible to do?</p>
+
+  :comment_date: 2006-08-25 12:24:46 -04:00
+  :comment_author: Adam
+- :comment_content: |
+    <p>yes im using Max media dock.</p>
+
+  :comment_date: 2006-08-25 12:36:41 -04:00
+  :comment_author: Badam
+- :comment_content: |
+    <p>Then we are doomed</p>
+
+  :comment_date: 2006-08-25 13:35:42 -04:00
+  :comment_author: Bonic
+- :comment_content: |
+    <p>I got screwed when I bought the max media dock. I want to buy a m3</p>
+
+  :comment_date: 2006-08-25 18:33:51 -04:00
+  :comment_author: Badam
+- :comment_content: |
+    <p>Any ideas how to get this working on a supercard lite?
+    Have tried renaming both to sc.nds files - the gb one flashes the text appended rom check for a second then I just get a blank screen.</p>
+    
+    <p>Have tried running them thru the convertors but i just cant get it to load :(</p>
+
+  :comment_date: 2006-08-26 04:05:22 -04:00
+  :comment_author: Rich
+- :comment_content: |
+    <p>What the crap?  How do I get this thing to find my games?  I have a Supercard CF.  I've tried putting the games into the root and in a folder named Roms, but neither work.  When I boot up PicoDriveDS, all I get is:</p>
+    
+    <p>"Appended ROM check...FOUND SMD!"</p>
+    
+    <p>And that's it.  Touch screen does nothing, buttons do nothing (other than the power button :P)</p>
+
+  :comment_date: 2006-08-26 11:41:43 -04:00
+  :comment_author: Nintendo Maniac 64
+- :comment_content: "<p>wait, nevermind.  Apparantly you need to append games to it &gt;_&gt;</p>\n\n\
+    <p>Anyway, there's still graphical errors for Super Hang-On.</p>\n\n\
+    <p>QUOTING ME FROM BEFORE\n\
+    \"the arcade mode for Super Hang-On has a bunch of graphical errors, but you actually still can see the road, but it\xC3\xA2\xE2\x82\xAC\xE2\x84\xA2s hard.</p>\n\n\
+    <p>Another thing is that oddly enough, the image of the road is too small than where the road physically is. I found that out cause I didn\xC3\xA2\xE2\x82\xAC\xE2\x84\xA2t slow down at all when I went off the road a bit and the AI players looked like they were racing off the road. XD</p>\n\n\
+    <p>But the original mode works perfectly O_o No graphical errors at all, and a correct-sized road too.\"</p>\n\n\
+    <p>But I have noticed that randomly, although rare, the graphical errors WILL be in original mode too.</p>\n"
+  :comment_date: 2006-08-26 12:16:18 -04:00
+  :comment_author: Nintendo Maniac 64
+- :comment_content: |
+    <p>I FOUND A GLITCH!</p>
+    
+    <p>Zero Wing is no longer playable.  It crashes right when you enter the playable part.  The menus and stuff are fine though.  Dissipointing because it worked fine on PicoDriveDS 0.1.4</p>
+
+  :comment_date: 2006-08-26 12:47:03 -04:00
+  :comment_author: Nintendo Maniac 64
+- :comment_content: |
+    <p>When I append the picodrive and sonic 2 rom, the file size gets smaller, when I try to play it, the ds shuts off, who can append one for me?</p>
+
+  :comment_date: 2006-08-27 14:45:08 -04:00
+  :comment_author: Bonic
+- :comment_content: "<p>\xC3\xA2\xE2\x82\xAC\xC5\x93copy /b picodriveds.ext+romname.ext picodriveds-withrom.ext\xC3\xA2\xE2\x82\xAC\xC2\x9D</p>\n\n\
+    <p>Is this supposed to be done in a command prompt?</p>\n"
+  :comment_date: 2006-08-27 19:56:07 -04:00
+  :comment_author: synonymous
+- :comment_content: |
+    <p>I tried it in a command prompt, and it says that it cannot find the file specified.  I had the picodriveds.nds and the picodriveds.ds.gba on my desktop, along with the rom in .bin format.  What I typed in was this:
+    "copy /b picodriveds.nds+Mega Turrican (U) [!].bin picodriveds-Mega Turrican (U) [!].bin"</p>
+    
+    <p>I've been trying to get this thing working for a few months now, so if anyone can tell me how exactly I'm supposed to do this, I'd appreciate it.</p>
+
+  :comment_date: 2006-08-27 20:06:40 -04:00
+  :comment_author: synonymous
+- :comment_content: |
+    <p>I found a Fat for the Max Media Dock, who can add it in?
+    Download: http://www.sendspace.com/file/9cqy1b</p>
+
+  :comment_date: 2006-08-27 20:10:41 -04:00
+  :comment_author: Bonic
+- :comment_content: |
+    <p>In CMD, you type in your cards drive in for example E:</p>
+    
+    <p>Then you type the other part in</p>
+
+  :comment_date: 2006-08-27 20:12:17 -04:00
+  :comment_author: Bonic
+- :comment_content: |
+    <p>I got this workign with max media dock! yay!</p>
+    
+    <p>http://www.sendspace.com/file/b86y1c</p>
+
+  :comment_date: 2006-08-28 00:13:16 -04:00
+  :comment_author: Bonic
+- :comment_content: |
+    <p>THANK YOU BONIC!</p>
+
+  :comment_date: 2006-08-29 20:54:38 -04:00
+  :comment_author: Badam
+- :comment_content: |
+    <p>I got the max media fat where do I put it, whats it do, &amp; hot to work it?</p>
+
+  :comment_date: 2006-08-29 20:59:30 -04:00
+  :comment_author: Badam
+- :comment_content: |
+    <p>O and the pictodrive works now on my max media dock, thanks Bonic. I feel joy inside</p>
+
+  :comment_date: 2006-08-29 21:03:30 -04:00
+  :comment_author: Badam
+- :comment_content: |
+    <p>I just found the .ds.gba file XD</p>
+    
+    <p>That is what is needed for the M3 MiniSD to run it right.  Before, all I saw were the .nds.gba and .nds files.  I want to thank the coder for updating this thing regularly, but I must add that the games are still glitchy.  I have tested Castlevania Bloodlines and M.U.S.H.A.(my favorite shooter) and both had transparency issues.  I also tested Zombies ate my neighbors, it worked fine, though a little slow.  I've also not gotten any sound out of the emulator yet, is sound not yet supported for the M3 port?</p>
+
+  :comment_date: 2006-08-30 06:06:58 -04:00
+  :comment_author: synonymous
+- :comment_content: |
+    <p>bonic u r my hero. I don't know how you got it to work on the MMD but if there were sound it would be perfect. this is good enough though. thanks man</p>
+
+  :comment_date: 2006-08-30 14:29:07 -04:00
+  :comment_author: raymon
+- :comment_content: |
+    <p>Sounds not supported for ANYTHING yet.</p>
+
+  :comment_date: 2006-08-30 14:55:51 -04:00
+  :comment_author: Bonic
+- :comment_content: |
+    <p>Oh my god! Finally! I'm the one that was infinitely having the problems with the M3 Mini SD. It's finally working. Your post said you weren't sure if it works; it does. All we need now is sound and a little more speed (<em>prays</em>).</p>
+    
+    <p>Oh and btw, there's this glitch that I'm wondering if anyone else has experienced. When playing Sonic 3, atleast on the first level, if I'm near the bottom of the stage, the colors change to "under water" colors (with the green tint to everything). Was this present in the other versions of Picodrive? (It's fine when I'm actually under water, but when I even get close to the bottom of the stage, not under water, it happens)</p>
+
+  :comment_date: 2006-08-31 14:21:30 -04:00
+  :comment_author: fajam00m00
+- :comment_content: |
+    <p>Yeah, I get the probelm too, maybe Rylan can fix that, if he can't, maybe I'll have to update the PicodriveDSMax</p>
+
+  :comment_date: 2006-08-31 14:35:51 -04:00
+  :comment_author: Bonic
+- :comment_content: |
+    <p>Spent 2 hours tonight playing Sensible Soccer on my G6 Lite. Thanks Ryan for the awesome program. Really appreciate your hard work</p>
+
+  :comment_date: 2006-09-01 00:01:56 -04:00
+  :comment_author: tolax
+- :comment_content: |
+    <p>I love this emulator.</p>
+    
+    <p>Any chance that the 6 button controller could be emulated? Curently you have push start to swap between "A,B,C" and "X,Y,Z"  It would really help in Steet Fighter II Turbo.</p>
+    
+    <p>Unless you can already do this and I am an idiot... ;)</p>
+
+  :comment_date: 2006-09-04 20:21:12 -04:00
+  :comment_author: Havoc_012
+- :comment_content: |
+    <p>So... any updates on their way? :D</p>
+
+  :comment_date: 2006-09-17 06:09:29 -04:00
+  :comment_author: Senile Snake
+- :comment_content: |
+    <p>ok, im confused.  do the instructions mean by "+" to zip the file? or is that something else</p>
+
+  :comment_date: 2006-09-18 14:46:52 -04:00
+  :comment_author: confusedguy
+- :comment_content: |
+    <p>You must update today! Follow the pattern! June 22, August 22, today is September 22. The 22nds rule all! Update!</p>
+    
+    <p>Okay, with that aside, I've been enjoying your emulator greatly. I have many roms on their now and I play them just as much as (and sometimes more than) my DS games. Keep up the good work.</p>
+    
+    <p>...Update! 22 ftw!</p>
+
+  :comment_date: 2006-09-22 13:01:50 -04:00
+  :comment_author: fajam00m00
+- :comment_content: |
+    <p>lol wouldn't that make this "pattern" october 22 anyways? Being 2 months appart... (:</p>
+    
+    <p>Remember that these kind of projects take some serious time and that the coder does it as a hobby. Theres a lot of work that goes into making an emulator.</p>
+
+  :comment_date: 2006-09-22 14:00:23 -04:00
+  :comment_author: Havoc_012
+- :comment_content: |
+    <p>You weren't supposed to say that! Oh, well.</p>
+    
+    <p>And of course I know emulators take a lot of work. The main reason I posted was to see if Ryan will respond. We haven't heard anything from him in a while.</p>
+
+  :comment_date: 2006-09-22 21:24:15 -04:00
+  :comment_author: fajam00m00
+- :comment_content: |
+    <p>Because hes coding -_-</p>
+
+  :comment_date: 2006-09-23 10:32:51 -04:00
+  :comment_author: Bonic
+- :comment_content: |
+    <p>Can't wait to see what 1.6 brings us, hopefully improved graphics handling(or whatever it's called) and sound(well, sound's not that important, being able to properly view the games is).  I'll check back on the 22nd, thanks for coding this emu Ryan!</p>
+
+  :comment_date: 2006-10-03 04:07:49 -04:00
+  :comment_author: synonymous
+- :comment_content: |
+    <p>Awesome stuff...</p>
+    
+    <p>But think you can code in support for roms over 4mb, OR port the Picodrive found on http://umk3.hacking-cult.org/ ?  It's at the way bottom.</p>
+    
+    <p>I tried to mail you it, but it couldn't go through.</p>
+    
+    <p>Also, think a control scheme could be...</p>
+    
+    <p>Touch Screen for Savestate and Load Rom and such...</p>
+    
+    <p>Genesis     DS
+    A         =    Y
+    B         =    B
+    C         =    A
+    X         =    L
+    Y         =    X
+    Z         =    R
+    Start    =  Start
+    Mode   =  Select</p>
+    
+    <p>That would be awesome for fighting games, in my opinion.</p>
+    
+    <p>Keep up the great work!</p>
+
+  :comment_date: 2006-10-08 10:32:53 -04:00
+  :comment_author: The Hombrew Hunter
+- :comment_content: |
+    <p>I finally discovered what causes the major graphical errors during a race in Super Hang-On!</p>
+    
+    <p>In either Arcade or Original mode, when it asks you to choose the track music, you can choose the following:</p>
+    
+    <p>Outride a Crisis
+    Sprinter
+    Winning Run
+    Hard Road</p>
+    
+    <p>Oddly enough, choosing "Outride a Crisis" or "Hard Road" results in major graphical errors during the race.  NO idea why though... Not really a major problem now though, since we don't have any sound yet :P  Just make sure you select "Sprinter" or "Winning Run".</p>
+
+  :comment_date: 2006-10-15 20:55:22 -04:00
+  :comment_author: Nintendo Maniac 64
+- :comment_content: |
+    <p>ok, you know what? ignore what I said.  That doesn't seem to be the cause...  even though it worked last night.  In fact, it still seems to be random &gt;_&lt;  Seriously, it seems to be completely random.  I can't figure it out at all...</p>
+
+  :comment_date: 2006-10-15 21:06:23 -04:00
+  :comment_author: Nintendo Maniac 64
+- :comment_content: |
+    <p>lol, it's the 22nd. My trend died...</p>
+
+  :comment_date: 2006-10-22 11:26:30 -04:00
+  :comment_author: fajam00m00
+- :comment_content: |
+    <p>oh no, not this again...</p>
+
+  :comment_date: 2006-10-22 12:57:49 -04:00
+  :comment_author: Havoc_012
+- :comment_content: |
+    <p>Hmm. Works wonderfully, with the execption of my Sonic 3 + Knuckles Rom. I had it in 'bin' format, but it wouldn't load, so I converted it to smd, and still the same error, pictured here: http://hosted.thegroupofthey.com/son3kerror.jpg I downloaded a fresh copy of the rom, and same jazz. This problem on my end, or the emulators'?</p>
+
+  :comment_date: 2006-10-23 22:11:51 -04:00
+  :comment_author: Nitz
+- :comment_content: |
+    <p>I've tried to get PicoDriveDS to work on my DS with a Supercard CF, but to no avail.</p>
+    
+    <p>I've tried each of the versions (.1.2, .1.3, .1.4, and .1.5), with and without appending working .bin and .smd roms (like altered beast, afterburner 2, and space harrier), in the root of my CF card or in a Genesis folder, and with and without the roms in the same folders.  I've looked at and followed any suggestions in all the threads in the message boards I can find (like gbadev, emutalk, emuboards, dcemu, etc).</p>
+    
+    <p>Each time I only get a white screen.  Has anyone gotten any version fo PicoDriveDS working on their Supercard CF?  If so, can you post a quick step-by-step here?</p>
+    
+    <p>Thanks a lot!</p>
+
+  :comment_date: 2006-10-27 12:22:49 -04:00
+  :comment_author: heavenonastick
+- :comment_content: |
+    <p>Sonic 3 &amp; Knuckles doesn't work with picodrive. But you could play sonic 3 and then play Sonic and Knuckles right after you beat sonic 3. &gt;_&lt;"</p>
+
+  :comment_date: 2006-10-30 18:49:15 -05:00
+  :comment_author: Havoc_012
+- :comment_content: |
+    <p>heavenonastick:</p>
+    
+    <p>Are you using the .nds file?  Because that will not work, you need to use the .ds.gba and rename it to .nds (or something like .ds.nds to make note that it was originally a .ds.gba)</p>
+
+  :comment_date: 2006-11-04 17:05:52 -05:00
+  :comment_author: Nintendo Maniac 64
+- :comment_content: |
+    <p>PicoDriveDS 0.1.5 wont save to my supercard lite's microSD but it saves just fine to my supercard SD card. 
+    the problem with both Save States and SRAM. I think it's due to the FAT Libs not being compatible with the MiniSD for the SuperCard Lite.</p>
+
+  :comment_date: 2006-11-05 18:48:56 -05:00
+  :comment_author: golden bill
+- :comment_content: |
+    <p>NM64:</p>
+    
+    <p>Alright, that worked, thank you so much.  I renamed the .gba file to .ds.gba.  Wonderful, I can't believe that was so hard to figure out.  Is that in the documentation anywhere, because I did not see it?  Thanks again.</p>
+
+  :comment_date: 2006-11-10 08:16:42 -05:00
+  :comment_author: heavenonastick
+- :comment_content: |
+    <p>I'm assuming you mean you renamed to .ds.nds :P</p>
+    
+    <p>But no, I don't believe it's documented.  It's kinda just a "known thing" when working with Supercards that renaming .ds.gba files to .nds will make them boot.</p>
+
+  :comment_date: 2006-11-10 19:51:27 -05:00
+  :comment_author: Nintendo Maniac 64
+- :comment_content: |
+    <p>Hi,
+    Thanks Ryan, great work so far!
+    One can only feverishly await sound emulation, to speak with Blather's words. ;)</p>
+
+  :comment_date: 2006-11-12 11:31:38 -05:00
+  :comment_author: Funkgod
+- :comment_content: |
+    <p>A nes version of Picodrive is comming out?</p>
+
+  :comment_date: 2006-11-18 03:27:42 -05:00
+  :comment_author: The-RockeR
+- :comment_content: |
+    <p>If your interested in NES emulation you might want to check out NesDS.</p>
+
+  :comment_date: 2006-11-19 13:17:13 -05:00
+  :comment_author: Havoc_012
+- :comment_content: |
+    <p>Is it coming out soon?</p>
+    
+    <p>I'm dying!</p>
+    
+    <p>I need some awesome gamage!</p>
+
+  :comment_date: 2006-11-23 11:31:37 -05:00
+  :comment_author: The Hombrew Hunter
+- :comment_content: |
+    <p>I just beta tested it, all hes trying to do is add MMD support(With my help), so don't start complaining! The nds file is WAY bigger than the 0.1.5 file! So it has alot of new thing added on..;)</p>
+
+  :comment_date: 2006-11-26 02:15:40 -05:00
+  :comment_author: Bonic
+- :comment_content: |
+    <p>Ok! Hes almost 100% done, so don't piss yourselfs :P</p>
+
+  :comment_date: 2006-11-26 14:46:45 -05:00
+  :comment_author: Bonic
+- :comment_content: |
+    <p>C'mon, don't leave us in suspense, at least tell one new feature(besides the file size) :P</p>
+
+  :comment_date: 2006-11-26 20:30:20 -05:00
+  :comment_author: synonymous
+- :comment_content: |
+    <p>This is probably a stupid question with a simple answer, but whenever I load up pictodrive, it says 'Establishing ROM check' for a split second, and then there's just a black screen.
+    Would anyone mind guiding me through how to properly install the emulator and play roms?</p>
+
+  :comment_date: 2007-06-07 05:40:12 -04:00
+  :comment_author: zwanpumpkin
+- :comment_content: |
+    <p>dose this work on the supercard ds(slot-1)?</p>
+    
+    <p>cuz i put the nds file and the roms in the root, but all i get is a load rom screen this no roms to load?</p>
+
+  :comment_date: 2007-08-21 13:16:59 -04:00
+  :comment_author: Arbiter540
 title: PicoDriveDS 0.1.5
 wordpress_url: http://www.cryptosystem.org/archives/2006/08/picodriveds-015/
 ---

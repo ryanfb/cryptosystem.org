@@ -2,6 +2,13 @@
 permalink: archives/2006/06/picodriveds-012
 wordpress_id: 26
 layout: post
+comments: 
+- :comment_content: |
+    <p>Very nive work, I've tested the 0.1.2 and it's really impressive !
+    Thanx for your work !</p>
+
+  :comment_date: 2006-06-11 13:51:09 -04:00
+  :comment_author: Ben2303
 title: PicoDriveDS 0.1.2
 wordpress_url: http://www.cryptosystem.org/archives/2006/06/picodriveds-012/
 ---

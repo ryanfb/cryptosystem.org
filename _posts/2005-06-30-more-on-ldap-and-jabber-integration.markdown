@@ -2,6 +2,31 @@
 permalink: archives/2005/06/more-on-ldap-and-jabber-integration
 wordpress_id: 17
 layout: post
+comments: 
+- :comment_content: |
+    Hello,
+    
+    On searching a lot I came across your patch and it is exactly what the company I work for as a syadmin needs. I have managed to apply your patch and get the authentication working with active directory. But inspite of trying several configs I couldnt get the vcard and roster to work through  AD.
+    
+    Could you please give me some directions on how to configure so that it retrives vcard information and roster from active directory.
+    
+    Any help would be appreciated. Otherwise even if you could point me to the person whom I should be asking this would be good enough.
+    
+    Let me know and I shall furnish you whatever information required.
+    
+    And thanks for sharing this excellent piece of work!!
+    
+    -Deepak
+    
+
+  :comment_date: 2006-04-08 07:37:03 -04:00
+  :comment_author: Deepak Bhat
+- :comment_content: |-
+    For vcard support, in your sm.xml make sure <code>&lt;driver type='vcard'&gt;ldapvcard&lt;/driver&gt;</code> is uncommented and the only driver for the vcard type. For roster support, make sure <code>&lt;driver type='published-roster'&gt;ldapvcard&lt;/driver&gt;</code> is the same way. You will then need to setup the ldapvcard driver section with the settings for your specific LDAP configuration - see the comments in the patched sm.xml.dist.in file. If you have not extended your directory schema and just want all users of of a specific basedn to show up, you should remove the publishedattr element. Make sure the roster-publish module is in your user-load chain. Make sure you have an uncommented publish element (and probably an empty fix-subscriptions element under it) in your user template element.
+    
+    For debugging, enable verbose logging on your LDAP server and watch the logs as you perform the actions you're inspecting on the Jabber server. Often seeing what the actual queries against the directory are will give you a much better idea of what's going on or why something is not working as expected.
+  :comment_date: 2006-04-11 22:54:34 -04:00
+  :comment_author: ryanfb
 title: More on LDAP and Jabber Integration
 wordpress_url: http://www.cryptosystem.org/archives/2005/06/more-on-ldap-and-jabber-integration/
 ---

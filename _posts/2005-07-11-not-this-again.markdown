@@ -2,6 +2,8 @@
 permalink: archives/2005/07/not-this-again
 wordpress_id: 18
 layout: post
+comments: []
+
 title: Not This Again
 wordpress_url: http://www.cryptosystem.org/archives/2005/07/not-this-again/
 ---

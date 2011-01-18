@@ -2,6 +2,8 @@
 permalink: archives/2005/04/xml-rpc-blogging-plugin-for-tomboy
 wordpress_id: 10
 layout: post
+comments: []
+
 title: XML-RPC Blogging Plugin for Tomboy
 wordpress_url: http://www.cryptosystem.org/wordpress/?p=10
 ---

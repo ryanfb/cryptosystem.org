@@ -2,6 +2,8 @@
 permalink: archives/2005/02/woohoo
 wordpress_id: 3
 layout: post
+comments: []
+
 title: Woohoo
 wordpress_url: http://www.cryptosystem.org/wordpress/?p=3
 ---

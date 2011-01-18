@@ -2,6 +2,8 @@
 permalink: archives/2005/05/upgraded-to-wordpress
 wordpress_id: 13
 layout: post
+comments: []
+
 title: Upgraded to Wordpress
 wordpress_url: http://www.cryptosystem.org/archives/2005/05/upgraded-to-wordpress/
 ---

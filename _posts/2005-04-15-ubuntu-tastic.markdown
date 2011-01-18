@@ -2,6 +2,8 @@
 permalink: archives/2005/04/ubuntu-tastic
 wordpress_id: 8
 layout: post
+comments: []
+
 title: Ubuntu-tastic
 wordpress_url: http://www.cryptosystem.org/wordpress/?p=8
 ---

@@ -2,6 +2,8 @@
 permalink: archives/2007/01/2006-christmas-coding-compo-entry
 wordpress_id: 31
 layout: post
+comments: []
+
 title: 2006 Christmas Coding Compo Entry
 wordpress_url: http://www.cryptosystem.org/archives/2007/01/2006-christmas-coding-compo-entry/
 ---

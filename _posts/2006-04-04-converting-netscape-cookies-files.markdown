@@ -2,6 +2,13 @@
 permalink: archives/2006/04/converting-netscape-cookies-files
 wordpress_id: 21
 layout: post
+comments: 
+- :comment_content: |
+    <p>Simply great! 
+    I use elinks on my old laptop (only 64 Mb of RAM), and I was very tired to wait for firefox each time I had to login into my account!</p>
+
+  :comment_date: 2007-01-08 15:09:26 -05:00
+  :comment_author: Antonio
 title: Converting Netscape Cookies Files
 wordpress_url: http://www.cryptosystem.org/archives/2006/04/converting-netscape-cookies-files/
 ---

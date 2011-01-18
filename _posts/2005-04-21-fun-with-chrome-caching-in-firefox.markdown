@@ -2,6 +2,8 @@
 permalink: archives/2005/04/fun-with-chrome-caching-in-firefox
 wordpress_id: 11
 layout: post
+comments: []
+
 title: Fun with chrome caching in Firefox
 wordpress_url: http://www.cryptosystem.org/wordpress/?p=11
 ---

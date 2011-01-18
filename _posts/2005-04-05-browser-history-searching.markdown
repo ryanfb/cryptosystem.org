@@ -2,6 +2,10 @@
 permalink: archives/2005/04/browser-history-searching
 wordpress_id: 7
 layout: post
+comments: 
+- :comment_content: what is cryptosystem? interduction
+  :comment_date: 2006-03-23 22:57:56 -05:00
+  :comment_author: satya
 title: Browser History Searching
 wordpress_url: http://www.cryptosystem.org/wordpress/?p=7
 ---

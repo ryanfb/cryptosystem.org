@@ -2,6 +2,266 @@
 permalink: archives/2006/11/picodriveds-016
 wordpress_id: 30
 layout: post
+comments: 
+- :comment_content: |
+    <p>Great, great, and re-great!</p>
+
+  :comment_date: 2006-11-27 09:00:33 -05:00
+  :comment_author: DEF
+- :comment_content: |
+    <p>yop! first to trying it!</p>
+    
+    <p>Seem's to have a big speed and display improvement!</p>
+    
+    <p>Very very good job, as ever!</p>
+    
+    <p>Thank you Ryan!</p>
+
+  :comment_date: 2006-11-27 14:15:14 -05:00
+  :comment_author: toiletking
+- :comment_content: |
+    <p>Wow, A new version. Thanks for your hardwork!! Gotta test this as soon as possible. (=</p>
+
+  :comment_date: 2006-11-27 15:04:04 -05:00
+  :comment_author: Havoc_012
+- :comment_content: |
+    <p>Yes a new update, Yes works with MMD. Thanks for making a new updated.</p>
+
+  :comment_date: 2006-11-27 15:27:09 -05:00
+  :comment_author: Badam
+- :comment_content: |
+    <p>Thanks for the update! ;)</p>
+
+  :comment_date: 2006-11-27 16:02:53 -05:00
+  :comment_author: mmmax
+- :comment_content: |
+    <p>Your welcome Badam.</p>
+
+  :comment_date: 2006-11-27 16:21:28 -05:00
+  :comment_author: Bonic
+- :comment_content: |
+    <p>Thanks very much.</p>
+
+  :comment_date: 2006-11-27 20:12:32 -05:00
+  :comment_author: dreamlike
+- :comment_content: |
+    <p>Great update! Plays Sonic 2 perfectly! Just needs sound.</p>
+
+  :comment_date: 2006-11-27 21:05:22 -05:00
+  :comment_author: FusionHype
+- :comment_content: |
+    <p>ok for once i like but theres a slight problem i'm haveing in the media max it loads but never see'z the roms i inserted when it goes to sruch for em and then freezes in what is it inst fat and well idk if i missed something or what.</p>
+
+  :comment_date: 2006-11-28 01:03:59 -05:00
+  :comment_author: trigger
+- :comment_content: |
+    <p>Thanks for your great work.
+    All french genesis fans want this emulator.</p>
+
+  :comment_date: 2006-11-28 02:26:54 -05:00
+  :comment_author: Ryo
+- :comment_content: |
+    <p>Hi RyanB*Great work even I haven't try this release. Could you make some speed increase ? I can't wait to play Thunderforce 4 with "full speed" and sound ! (maybe you can use the picodrive source for GP2X to help you).</p>
+
+  :comment_date: 2006-11-28 05:31:44 -05:00
+  :comment_author: Mortys
+- :comment_content: |
+    <p>Hi 
+    its nice to play Mega drive on DS,but how i got it to start this stuff on Supercard lite (MicroSD)</p>
+    
+    <p>Help!!!!</p>
+
+  :comment_date: 2006-11-28 06:27:44 -05:00
+  :comment_author: crossout
+- :comment_content: |
+    <p>doesn't work for me.. :( i use SUPERKEY2 and SUPERCARD with CF on DS lite
+    the files load and freeze at 600 on 704  (i use .ds.gba file because the other don't work for me)</p>
+
+  :comment_date: 2006-11-28 13:12:17 -05:00
+  :comment_author: wade
+- :comment_content: |
+    <p>just use the .ds.gba and rename it .nds Crossout.
+    Ryan I've just try it and it's incredible. Thunder Force 4 is near full speed (as I can see). I cna't wait the next release that, I hope, will have full speed and even maybe sound :)</p>
+
+  :comment_date: 2006-11-28 13:35:22 -05:00
+  :comment_author: Mortys
+- :comment_content: |
+    <p>Thank you!  I love your emu, and hope it continues to develop!</p>
+
+  :comment_date: 2006-11-28 14:11:01 -05:00
+  :comment_author: Cory
+- :comment_content: |
+    <p>Hey, think at some point the M3's Ram can be used to try to play roms larger than 3MB?</p>
+    
+    <p>Thanks for the work!</p>
+
+  :comment_date: 2006-11-28 14:25:02 -05:00
+  :comment_author: The Hombrew Hunter
+- :comment_content: |
+    <p>ok that right , i needed to rename GBA to NDS  (i forget this detail..)
+    speed is better than the 1.5 (i test with Street of rage 1.2 and3 and Best of the best) version but no sound yet ...hope in the next version ;)
+    some little trouble to change game with the SELECT button...
+    this emulator is in the good way!!</p>
+
+  :comment_date: 2006-11-28 14:31:32 -05:00
+  :comment_author: wade
+- :comment_content: |
+    <p>People, he didn't really change alot of things, he added more rom support and I ADDED the max media code, say your thanks you to everyone who help people</p>
+
+  :comment_date: 2006-11-28 16:37:46 -05:00
+  :comment_author: Bonic
+- :comment_content: |
+    <p>Put NHL 94 in for it to use. It seems to run for a couple of seconds, then freeze for 10 or so. Obviously that's a bit of a handicap:)</p>
+
+  :comment_date: 2006-11-28 18:54:06 -05:00
+  :comment_author: Drood
+- :comment_content: |
+    <p>What do you expect, Bonic? I think it's nice that PicoDriveDS supports MMD now, but people who use M3, SC (like me) or any other gadget won't be able to appreciate your work.</p>
+    
+    <p>Anyhow: thanks to everyone who contributed to this emulator, and keep up the good work. Happy now? ;)</p>
+
+  :comment_date: 2006-11-30 07:40:34 -05:00
+  :comment_author: Funkgod
+- :comment_content: |
+    <p>Working fine on M3 SD.</p>
+    
+    <p>Graphic's fluidity is enhanced with this release.</p>
+
+  :comment_date: 2006-11-30 12:03:08 -05:00
+  :comment_author: DEF
+- :comment_content: |
+    <p>Looking good! Works fine on the CF Supercard with the latest Firmware. I'll keep touching it.</p>
+
+  :comment_date: 2006-11-30 12:22:36 -05:00
+  :comment_author: Higurb
+- :comment_content: |
+    <p>Thank you Bonic for helping him ! It's very nice for owner of max media support !</p>
+    
+    <p>Good job!</p>
+    
+    <p>Ps : could you help him for sound support? ;o)</p>
+
+  :comment_date: 2006-12-01 16:22:44 -05:00
+  :comment_author: toiletking
+- :comment_content: |
+    <p>You guys thinks its easy to add sound support, trust me, its VERY hard..</p>
+
+  :comment_date: 2006-12-01 17:14:53 -05:00
+  :comment_author: Bonic
+- :comment_content: |
+    <p>Hi! This emulator is FANTASTIC! Thanks a lot... great work
+    I have made a guide (only Italian Language) for Supercard users
+    http://buothz.altervista.org/buothzds/buothzds.html
+    Thanks a lot</p>
+
+  :comment_date: 2006-12-01 21:51:37 -05:00
+  :comment_author: Buothz
+- :comment_content: |
+    <p>I still love it, but..</p>
+    
+    <p>I think the comment I left for 0.1.5, the 6 Button Config.  That would be the best!</p>
+    
+    <p>And, if it's possible, figure out how to make http://umk3.hacking-cult.org/ work.</p>
+
+  :comment_date: 2006-12-02 14:09:56 -05:00
+  :comment_author: The Hombrew Hunter
+- :comment_content: "<p>News!\n\
+    G6 drivers have been released!\n\
+    They can be found here:\n\
+    http://forum.gbadev.org/viewtopic.php?t=11\xC3\xA2\xE2\x82\xAC\xC2\xA6sc&amp;start=30</p>\n\n\
+    <p>I test scumvm with this and libfat works on my G6 !!!!!</p>\n\n\
+    <p>I will like to see PicodriveDS on my linker G6 now.</p>\n"
+  :comment_date: 2006-12-04 09:49:11 -05:00
+  :comment_author: Kasimir2007
+- :comment_content: |
+    <p>http://forum.gbadev.org/viewtopic.php?t=11430&amp;start=30</p>
+
+  :comment_date: 2006-12-04 10:11:43 -05:00
+  :comment_author: Kasimir2007
+- :comment_content: |
+    <p>Guys, the original picodrive, which has been ported, never included sound support. I have no idea what chip it uses but I can guarantee you that emulating it from scratch is no mean feat. Plus, if you don't like the speed now, how do you think you'll feel when it's trying to emulate sound as well? The DS isn't a very powerful little machine, and even getting it to run faster will take some pretty nifty memory management.....so cut the guy some slack, hey? It's a great and, more importantly, the ONLY Megadrive emulator for the DS.</p>
+
+  :comment_date: 2006-12-05 08:23:34 -05:00
+  :comment_author: Smashed
+- :comment_content: |
+    <p>Hi Bonic!</p>
+    
+    <p>Just a little question! do you think that it is possible to macke an Amiga emulator like uae, without windows manager (amiga os) on DS (just launching amiga games) ? I think that because of the similarity of those hardware...</p>
+    
+    <p>I'm fond of megadrive and amiga, and i'm very happy to find some amiga games on genesis ! (with picodrive)!</p>
+
+  :comment_date: 2006-12-05 15:56:45 -05:00
+  :comment_author: toiletking
+- :comment_content: |
+    <p>Thank you very much for your work on this. I cant wait to test this out. Thanks</p>
+
+  :comment_date: 2006-12-31 15:25:14 -05:00
+  :comment_author: Silent Bob
+- :comment_content: |
+    <p>Anyone can help me?</p>
+    
+    <p>I rename the .ds.gba file to .nds but does not work for me.i'm using supercard lite microsd.
+    please heelp!</p>
+
+  :comment_date: 2007-01-06 18:33:30 -05:00
+  :comment_author: V1KT0R
+- :comment_content: |
+    <p>Hey, im having trouble getting this to work on the SC1. It worked fine on my friend's SC after patching, but on the SC1 it loads and shows 'Load rom' but nothing else is displayed. Any thoughts?</p>
+
+  :comment_date: 2007-01-09 05:41:31 -05:00
+  :comment_author: Ben
+- :comment_content: |
+    <p>is it just me or is there no sound</p>
+
+  :comment_date: 2007-01-10 14:31:24 -05:00
+  :comment_author: dan
+- :comment_content: |
+    <p>(Same as Ben. but with M3 DS Simply)</p>
+
+  :comment_date: 2007-01-10 22:44:54 -05:00
+  :comment_author: Mienaikage
+- :comment_content: |
+    <p>Also I don't know if this is relevant because they're on different platforms, but I have a mobile (symbian series 60) version of PicoDrive that has sound support.</p>
+
+  :comment_date: 2007-01-10 22:46:30 -05:00
+  :comment_author: Mienaikage
+- :comment_content: |
+    <p>Thanks for your work.Ryan!</p>
+
+  :comment_date: 2007-01-15 03:53:10 -05:00
+  :comment_author: "Liang #17"
+- :comment_content: |
+    <p>On my SC Micro SD Lite, I can only run picodrive under Moonshell. Works perfectly (more than 300 games tested). Maybe it would solve most of the SC problems described here. Great job, fellows! Thanks a lot, Genesis was so important for me. :)</p>
+
+  :comment_date: 2007-01-17 11:06:59 -05:00
+  :comment_author: Ifuriita
+- :comment_content: |
+    <p>The emu it self works on the R4DS card but does not find the roms which are also on the microsd card, do you have to put them in a folder or patch them?</p>
+    
+    <p>New to this.</p>
+    
+    <p>Any help would be great, thanks</p>
+    
+    <p>Bazza</p>
+
+  :comment_date: 2007-01-27 14:52:19 -05:00
+  :comment_author: tecnobaz
+- :comment_content: |
+    <p>Same prob as some other peeps
+    I have an m3 simply (same as the R4)
+    Ive patched picodriveds.nds with dlditool and r4tf.dldi and placed .nds and rom  files into sd cards root dir, emu loads but show 'LOAD ROM' but does  not list the roms</p>
+    
+    <p>Bazza it still dont work when patched but maybe the roms need to be in a specific folder...anyone know???
+    help would be appreciated
+    thanks</p>
+
+  :comment_date: 2007-02-03 11:16:20 -05:00
+  :comment_author: Herod
+- :comment_content: |
+    <p>when will there b sound?</p>
+
+  :comment_date: 2008-05-29 03:20:43 -04:00
+  :comment_author: Tom
 title: PicoDriveDS 0.1.6
 wordpress_url: http://www.cryptosystem.org/archives/2006/11/picodriveds-016/
 ---

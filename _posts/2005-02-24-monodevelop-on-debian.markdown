@@ -2,6 +2,8 @@
 permalink: archives/2005/02/monodevelop-on-debian
 wordpress_id: 4
 layout: post
+comments: []
+
 title: MonoDevelop on Debian
 wordpress_url: http://www.cryptosystem.org/wordpress/?p=4
 ---

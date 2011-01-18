@@ -2,6 +2,37 @@
 permalink: archives/2006/06/picodriveds-genesis-emulator-port-for-nintendo-ds
 wordpress_id: 24
 layout: post
+comments: 
+- :comment_content: |
+    <p>Great Work! 
+    (It works with M3-SD)</p>
+    
+    <p>Can't wait till the next Version ;-)</p>
+
+  :comment_date: 2006-06-07 04:05:26 -04:00
+  :comment_author: CoolFool
+- :comment_content: |
+    <p>Amazing. I can't wait to see what it can do after some rendering optimization. One thing I noticed though, you are scaling the smaller Genesis resolution oddly when you could probably avoid scaling it at all, or just vertically. There is that Genesis resolution that is 256x240 or something similar. Battletoads, Mega Man, and Teenage Mutant Ninja Turtles all run in that. Castlevania as well I believe. Anyways, this is an awesome start.</p>
+
+  :comment_date: 2006-06-08 12:33:30 -04:00
+  :comment_author: MottZilla
+- :comment_content: |
+    <p>I tried Ghosts and Ghouls and it works fine although there is no sound atm, is that normal?</p>
+
+  :comment_date: 2006-06-09 06:02:24 -04:00
+  :comment_author: Sulcalibur
+- :comment_content: |
+    <p>oops sorry just saw the post bit bout no sound, Doh!</p>
+    
+    <p>Superb work though.</p>
+
+  :comment_date: 2006-06-09 06:05:16 -04:00
+  :comment_author: Sulcalibur
+- :comment_content: |
+    <p>And so many people said that it couldnt be done, with some more work Im sure you could get this perfect.</p>
+
+  :comment_date: 2006-08-27 09:42:54 -04:00
+  :comment_author: echoes
 title: PicoDriveDS - Genesis Emulator Port for Nintendo DS
 wordpress_url: http://www.cryptosystem.org/archives/2006/06/picodriveds-genesis-emulator-port-for-nintendo-ds/
 ---
