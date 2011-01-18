@@ -32,6 +32,8 @@ module Jekyll
         name = "%02d-%02d-%02d-%s.markdown" % [date.year, date.month, date.day,
                                                slug]
 
+        comment_query = "select comment_author, comment_date, comment_content from wp_comments where comment_approved = 1 and comment_post_ID = #{post[:ID]}"
+        
         # Get the relevant fields as a hash, delete empty fields and convert
         # to YAML for the header
         data = {
@@ -40,14 +42,25 @@ module Jekyll
            'excerpt' => post[:post_excerpt].to_s,
            'wordpress_id' => post[:ID],
            'wordpress_url' => post[:guid],
-           'permalink' => "archives/%02d/%02d/%s" % [date.year, date.month, slug]
+           'permalink' => "archives/%02d/%02d/%s" % [date.year, date.month, slug],
+           'comments' => db[comment_query].all.map{|c| c[:comment_content] = c[:comment_content].to_s; c[:comment_author] = c[:comment_author].to_s; c}
          }.delete_if { |k,v| v.nil? || v == ''}.to_yaml
-
+        
         # Write out the data and content to file
         File.open("_posts/#{name}", "w") do |f|
           f.puts data
           f.puts "---"
           f.puts content
+          
+          # if db[comment_query].count > 0
+          #   f.puts '<div class="comments">'
+          #     f.puts '<ul>'
+          #     db[comment_query].each do |comment|
+          #       f.puts "<li/><span class=\"author\">%s</span> <span class=\"date\">%02d/%02d/%02d</span> <span class=\"comment\">%s</span>" % [comment[:comment_author], comment[:comment_date].year, comment[:comment_date].month, comment[:comment_date].day, comment[:comment_content]]
+          #     end
+          #     f.puts '</ul>'
+          #   f.puts '</div>'
+          # end
         end
       end
 
