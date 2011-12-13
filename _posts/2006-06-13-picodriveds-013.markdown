@@ -1,7 +1,7 @@
 --- 
 permalink: archives/2006/06/picodriveds-013
 wordpress_id: 27
-layout: post
+layout: default
 comments: 
 - :comment_content: |
     <p>You are great man! Congratulations for this marvellous emulator! A lot of people from Spain (including me) would like to give you thanks for it.

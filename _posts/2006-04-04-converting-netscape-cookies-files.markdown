@@ -1,7 +1,7 @@
 --- 
 permalink: archives/2006/04/converting-netscape-cookies-files
 wordpress_id: 21
-layout: post
+layout: default
 comments: 
 - :comment_content: |
     <p>Simply great! 

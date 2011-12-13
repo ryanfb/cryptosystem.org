@@ -1,7 +1,7 @@
 --- 
 permalink: archives/2007/02/libfatdldi-enabled-ds-bios-dumper
 wordpress_id: 34
-layout: post
+layout: default
 comments: 
 - :comment_content: |
     <p>But your time and efforts are still appriciated, appreciated :)</p>

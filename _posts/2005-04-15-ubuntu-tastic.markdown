@@ -1,7 +1,7 @@
 --- 
 permalink: archives/2005/04/ubuntu-tastic
 wordpress_id: 8
-layout: post
+layout: default
 comments: []
 
 title: Ubuntu-tastic

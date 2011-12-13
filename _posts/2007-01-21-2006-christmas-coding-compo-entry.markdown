@@ -1,7 +1,7 @@
 --- 
 permalink: archives/2007/01/2006-christmas-coding-compo-entry
 wordpress_id: 31
-layout: post
+layout: default
 comments: []
 
 title: 2006 Christmas Coding Compo Entry

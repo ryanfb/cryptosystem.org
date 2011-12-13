@@ -1,7 +1,7 @@
 --- 
 permalink: archives/2005/05/upgraded-to-wordpress
 wordpress_id: 13
-layout: post
+layout: default
 comments: []
 
 title: Upgraded to Wordpress

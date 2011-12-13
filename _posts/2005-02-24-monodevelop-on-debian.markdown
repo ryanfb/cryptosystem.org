@@ -1,7 +1,7 @@
 --- 
 permalink: archives/2005/02/monodevelop-on-debian
 wordpress_id: 4
-layout: post
+layout: default
 comments: []
 
 title: MonoDevelop on Debian

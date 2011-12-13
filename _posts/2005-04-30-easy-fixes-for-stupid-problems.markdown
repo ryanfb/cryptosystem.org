@@ -1,7 +1,7 @@
 --- 
 permalink: archives/2005/04/easy-fixes-for-stupid-problems
 wordpress_id: 12
-layout: post
+layout: default
 comments: []
 
 title: Easy Fixes for Stupid Problems

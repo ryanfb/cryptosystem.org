@@ -1,7 +1,7 @@
 --- 
 permalink: archives/2006/06/picodriveds-genesis-emulator-port-for-nintendo-ds
 wordpress_id: 24
-layout: post
+layout: default
 comments: 
 - :comment_content: |
     <p>Great Work! 

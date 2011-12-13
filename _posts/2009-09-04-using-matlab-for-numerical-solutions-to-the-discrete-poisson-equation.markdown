@@ -1,7 +1,7 @@
 --- 
 permalink: archives/2009/09/using-matlab-for-numerical-solutions-to-the-discrete-poisson-equation
 wordpress_id: 45
-layout: post
+layout: default
 title: Using MATLAB for numerical solutions to the discrete Poisson equation
 wordpress_url: http://www.cryptosystem.org/?p=45
 ---

@@ -1,7 +1,7 @@
 --- 
 permalink: archives/2006/06/building-a-fat-file-image-for-nds-homebrew
 wordpress_id: 25
-layout: post
+layout: default
 comments: 
 - :comment_content: |
     <p>Erm, I'm a programming n00b. how can I do this easily? is there some program  that allows me to do that easily?</p>

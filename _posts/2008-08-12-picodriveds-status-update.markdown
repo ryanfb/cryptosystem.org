@@ -1,7 +1,7 @@
 --- 
 permalink: archives/2008/08/picodriveds-status-update
 wordpress_id: 35
-layout: post
+layout: default
 comments: []
 
 title: PicoDriveDS Status Update

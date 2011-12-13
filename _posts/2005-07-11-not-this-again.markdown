@@ -1,7 +1,7 @@
 --- 
 permalink: archives/2005/07/not-this-again
 wordpress_id: 18
-layout: post
+layout: default
 comments: []
 
 title: Not This Again

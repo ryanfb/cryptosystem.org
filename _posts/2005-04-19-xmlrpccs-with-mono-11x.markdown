@@ -1,7 +1,7 @@
 --- 
 permalink: archives/2005/04/xmlrpccs-with-mono-11x
 wordpress_id: 9
-layout: post
+layout: default
 comments: []
 
 title: XmlRpcCS with Mono >1.1.x

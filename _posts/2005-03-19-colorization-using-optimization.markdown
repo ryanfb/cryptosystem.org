@@ -1,7 +1,7 @@
 --- 
 permalink: archives/2005/03/colorization-using-optimization
 wordpress_id: 6
-layout: post
+layout: default
 comments: 
 - :comment_content: |-
     Now that I have some more bandwidth/storage and the torrent is long dead, here's a link to the R7SP1 Windows MCR: http://cryptosystem.org/projects/colorize/MCRInstaller.exe

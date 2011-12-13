@@ -1,7 +1,7 @@
 --- 
 permalink: archives/2005/02/welcome-to-cryptosystemorg
 wordpress_id: 2
-layout: post
+layout: default
 comments: []
 
 title: Welcome to cryptosystem.org

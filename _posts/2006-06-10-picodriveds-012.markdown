@@ -1,7 +1,7 @@
 --- 
 permalink: archives/2006/06/picodriveds-012
 wordpress_id: 26
-layout: post
+layout: default
 comments: 
 - :comment_content: |
     <p>Very nive work, I've tested the 0.1.2 and it's really impressive !

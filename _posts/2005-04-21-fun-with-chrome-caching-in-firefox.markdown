@@ -1,7 +1,7 @@
 --- 
 permalink: archives/2005/04/fun-with-chrome-caching-in-firefox
 wordpress_id: 11
-layout: post
+layout: default
 comments: []
 
 title: Fun with chrome caching in Firefox

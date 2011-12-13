@@ -1,7 +1,7 @@
 --- 
 permalink: archives/2005/04/browser-history-searching
 wordpress_id: 7
-layout: post
+layout: default
 comments: 
 - :comment_content: what is cryptosystem? interduction
   :comment_date: 2006-03-23 22:57:56 -05:00

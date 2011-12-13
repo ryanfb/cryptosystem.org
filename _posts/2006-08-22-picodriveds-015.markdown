@@ -1,7 +1,7 @@
 --- 
 permalink: archives/2006/08/picodriveds-015
 wordpress_id: 29
-layout: post
+layout: default
 comments: 
 - :comment_content: |
     <p>Good work with this new version of the picodriveDS, the speed is increased! :)

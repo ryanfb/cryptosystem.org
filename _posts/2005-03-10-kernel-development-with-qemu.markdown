@@ -1,7 +1,7 @@
 --- 
 permalink: archives/2005/03/kernel-development-with-qemu
 wordpress_id: 5
-layout: post
+layout: default
 comments: []
 
 title: Kernel development with qemu

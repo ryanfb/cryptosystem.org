@@ -1,7 +1,7 @@
 --- 
 permalink: archives/2007/01/simple-gba-mode-switcher
 wordpress_id: 32
-layout: post
+layout: default
 comments: 
 - :comment_content: |
     <p>thats kool, hmm.. what if you make it vice versa? i mean like instead of a nds file switching to gba mode, make a gba. file that switched into nintendo ds mode for ds users.</p>
