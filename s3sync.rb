@@ -25,6 +25,15 @@ Dir.glob("_site/**/*") do |filename|
       bucket,
       options_hash
     )
+
+    if remote =~ /^archives\//
+      AWS::S3::S3Object.store(
+        remote + '/',
+        open(filename),
+        bucket,
+        options_hash
+      )
+    end
   end
 end
 AWS::S3::Bucket.disable_logging_for(bucket)
